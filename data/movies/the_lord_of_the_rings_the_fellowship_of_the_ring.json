@@ -1,0 +1,36 @@
+{
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "The Shire is lush, peaceful, and insulated from the wider world — an idyllic home symbolizing innocence and simplicity.",
+      "Theme Stated": "Galadriel’s voiceover and later Gandalf’s words to Frodo suggest that courage can be found in unexpected places — that even the smallest person can shape the fate of the world.",
+      "Set-Up": "Frodo inherits the One Ring after Bilbo departs. Gandalf begins to suspect its true nature. The Shire’s calm is juxtaposed with an encroaching darkness.",
+      "Catalyst": "Gandalf confirms that the ring is the One Ring and sends Frodo away before the Nazgûl arrive — the true scope of the danger is revealed.",
+      "Debate": "Frodo is frightened and uncertain. He questions why he was chosen and whether he can endure such a responsibility.",
+      "Break into Two": "Frodo leaves the Shire with Sam, beginning a journey that will reshape him and the world. The story expands from pastoral to epic.",
+      "B Story": "The relationships within the Fellowship form the emotional core — trust, loyalty, sacrifice, and temptation weave through these bonds.",
+      "Fun and Games": "The company traverses Middle-earth, facing trolls, mines, and moral tests. We get thrilling action, character development, and the grandeur of Tolkien’s world.",
+      "Midpoint": "The Fellowship officially forms in Rivendell. With purpose and unity, they set off, though cracks soon appear — especially through Boromir’s internal struggle.",
+      "Bad Guys Close In": "Saruman’s betrayal, the snowbound pass, Moria’s terrors, and the pull of the Ring wear down the group. The Ring’s power isolates Frodo.",
+      "All Is Lost": "Gandalf falls in Moria. The group's leader is gone. Grief and fear threaten to unravel the quest.",
+      "Dark Night of the Soul": "Boromir tries to take the Ring. Frodo realizes he endangers his friends. The burden is his alone to carry.",
+      "Break into Three": "Frodo decides to go to Mordor alone. Sam’s loyalty drives him to follow, underscoring the film’s heart.",
+      "Finale": "The Fellowship breaks. Aragorn, Legolas, and Gimli pursue Merry and Pippin. Frodo and Sam press onward, aware that this journey will test them to their limits.",
+      "Final Image": "Frodo and Sam walk into the wild, no longer protected or naive. The world darkens, but they move forward with quiet determination."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Frodo lives a gentle life in the Shire, surrounded by laughter, gardens, and books — untouched by evil.",
+      "Call to Adventure": "Gandalf reveals that the Ring is a threat to all life and urges Frodo to flee.",
+      "Trials": "Frodo faces Black Riders, internal fears, and interpersonal conflicts on the road to Rivendell and beyond.",
+      "Ordeal": "In the face of betrayal and danger, Frodo sees the toll the Ring takes. He resolves to break from the group and go alone — the ultimate test of will.",
+      "Return": "Joined by Sam, Frodo continues the journey into Mordor, transformed by loss, responsibility, and the first leg of his heroic transformation."
+    },
+    "Story Circle": {
+      "You": "Frodo is an ordinary hobbit — cautious, kind, and unaware of the scale of evil in the world.",
+      "Need": "He must rise to an impossible challenge and learn to carry unbearable weight without losing himself.",
+      "Go": "Leaving the Shire, he ventures into a world of danger, magic, and moral peril.",
+      "Find": "Frodo faces death, betrayal, and the lure of power. He sees how the Ring corrupts even the noble.",
+      "Return": "He leaves the Fellowship behind, stepping into darkness with Sam — not yet victorious, but firmly on the hero’s path."
+    }
+  }
+}

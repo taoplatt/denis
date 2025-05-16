@@ -1,0 +1,36 @@
+{
+  "title": "Mad Max: Fury Road",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Max stands alone in the wasteland, haunted by the voices of those he failed to save. His existence is stripped down to survival, reflecting a world without mercy.",
+      "Theme Stated": "“Hope is a mistake.” Max’s bleak philosophy defines the film’s central theme — the tension between survivalist cynicism and the radical act of hope in a broken world.",
+      "Set-Up": "Max is captured by War Boys and brought to the Citadel, a grotesque autocracy built on exploitation. We are introduced to Immortan Joe’s cult-like control, and Furiosa’s role as an Imperator.",
+      "Catalyst": "Furiosa diverges from her convoy route, smuggling the Five Wives — women intended to bear Joe’s heirs — in a daring bid for freedom.",
+      "Debate": "Max escapes captivity and briefly takes control of the rig. He must decide whether to abandon Furiosa and the women or join them. His instinct is to walk away.",
+      "Break into Two": "Max chooses to cooperate. Together, they journey across the hostile terrain, an uneasy alliance forged under pressure.",
+      "B Story": "Furiosa’s bond with the Wives deepens, while Max begins to see in them — and her — a glimpse of humanity he thought he’d lost. Their evolving trust becomes the emotional heart of the film.",
+      "Fun and Games": "The film’s signature set pieces: explosive desert chases, battle rigs, and sandstorms. The action is relentless, stylized, and inventive, testing their resourcefulness.",
+      "Midpoint": "They reach the Green Place, only to find it desolate. Furiosa breaks down — her lifelong hope was a lie. The plan has failed.",
+      "Bad Guys Close In": "With nowhere to go, Joe's forces close in. Tensions rise among the group, and Furiosa is gravely injured during the retreat.",
+      "All Is Lost": "Furiosa lies dying. Max, finally moved by something more than instinct, offers his blood to save her — a symbolic gesture of renewal and connection.",
+      "Dark Night of the Soul": "Max suggests an audacious reversal: return to the Citadel. This shift reflects a philosophical turn — from escape to reclamation.",
+      "Break into Three": "The group turns back and stages a bold counterattack through narrow canyons, now fighting not to flee but to liberate.",
+      "Finale": "They kill Joe and take the Citadel. Max helps lift Furiosa as the people cheer — she is the new symbol of leadership and change.",
+      "Final Image": "Max, his purpose fulfilled, fades into the crowd. A mythic figure restored not by conquest, but by compassion and solidarity."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Max is a drifter tormented by his past, living without hope or connection in a post-apocalyptic wasteland.",
+      "Call to Adventure": "He is swept into Furiosa’s defection from Immortan Joe, forced along by circumstance.",
+      "Trials": "He survives brutal action sequences, earns the trust of Furiosa and the Wives, and begins to reconnect with his own humanity.",
+      "Ordeal": "At the Green Place, all hope seems lost. Max confronts his fatalism and offers a new path forward — to return and fight for change.",
+      "Return": "Having helped overthrow tyranny, Max departs quietly, no longer just a survivor but a man who chose to care."
+    },
+    "Story Circle": {
+      "You": "Max is a haunted survivor, closed off from the world, surviving moment to moment.",
+      "Need": "He needs to rediscover purpose and the capacity to trust and fight for others.",
+      "Go": "He becomes entangled in Furiosa’s mission and the Wives’ escape.",
+      "Find": "He bonds with them, offers his blood, and proposes a new course of action — one rooted in reclamation, not escape.",
+      "Return": "He helps liberate the Citadel and walks away, changed — a loner no longer defined solely by loss."
+    }
+  }
+}

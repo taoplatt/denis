@@ -1,115 +1,258 @@
+import Head from "next/head";
 import Image from "next/image";
-import { Geist, Geist_Mono } from "next/font/google";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+import React, { useState, useEffect, useRef } from "react";
 
 export default function Home() {
+  const [selectedMovie, setSelectedMovie] = useState<string | null>(null);
+  const [selectedFramework, setSelectedFramework] = useState<string | null>(
+    null
+  );
+  const [movieData, setMovieData] = useState<Record<string, any>>({});
+
+  // --- Scroll behavior logic for movie scroll section ---
+  const scrollRef = useRef<HTMLDivElement>(null);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(false);
+
+  const handleScroll = () => {
+    const el = scrollRef.current;
+    if (el) {
+      setCanScrollLeft(el.scrollLeft >= 64);
+      setCanScrollRight(el.scrollLeft + el.clientWidth < el.scrollWidth);
+    }
+  };
+
+  const scrollByOffset = (offset: number) => {
+    scrollRef.current?.scrollBy({ left: offset, behavior: "smooth" });
+  };
+
+  const formatTitle = (name: string) =>
+    name.replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase());
+
+  useEffect(() => {
+    fetch("/api/movies")
+      .then((res) => res.json())
+      .then((movieList) => {
+        const movies: Record<string, any> = {};
+        movieList.forEach(({ name, data }: { name: string; data: any }) => {
+          movies[name] = data;
+        });
+        setMovieData(movies);
+
+        requestAnimationFrame(() => {
+          handleScroll();
+        });
+      });
+  }, []);
+
+  const frameworks = ["Hero’s Journey", "Save the Cat", "Story Circle"];
+  const [showFrameworkSummary, setShowFrameworkSummary] = useState(false);
+
+  // --- Active section state for breakdown highlighting ---
+  const [activeSection, setActiveSection] = useState<string | null>(null);
+
+  // IntersectionObserver for breakdown highlighting
+  useEffect(() => {
+    if (!selectedMovie || !selectedFramework) return;
+    const observer = new window.IntersectionObserver(
+      (entries) => {
+        const visible = entries.find((entry) => entry.isIntersecting);
+        if (visible?.target) {
+          setActiveSection(visible.target.getAttribute("data-key"));
+        }
+      },
+      { root: null, rootMargin: "0px", threshold: 0.6 }
+    );
+
+    const elements = document.querySelectorAll(".timeline-entry");
+    elements.forEach((el) => observer.observe(el));
+
+    return () => observer.disconnect();
+  }, [selectedMovie, selectedFramework]);
+
   return (
-    <div
-      className={`${geistSans.className} ${geistMono.className} grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]`}
-    >
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              pages/index.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+    <div className="min-h-screen bg-gray-100 text-gray-900">
+      <Head>
+        <title>Denis</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+
+      {/* Header */}
+      <header className="text-center py-8 flex flex-col items-center space-y-2">
+        <div className="flex items-center gap-3">
+          <Image src="/logo.svg" alt="Denis logo" width={48} height={48} />
+          <h1 className="text-4xl font-bold">Denis</h1>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+        <p className="text-lg text-gray-600 text-center max-w-md">
+          Movie structure, frame by frame.
+        </p>
+      </header>
+
+      <div
+        onClick={(e) => {
+          const target = e.target as HTMLElement;
+          const isInteractive =
+            target.closest("button") ||
+            target.closest(".toggle-switch") ||
+            target.closest(".movie-poster") ||
+            target.closest(".framework-toggle");
+          if (!isInteractive && target.id === "background-capture") {
+            setSelectedMovie(null);
+            setSelectedFramework(null);
+          }
+        }}
+        id="background-capture"
+      >
+        <main className="max-w-4xl mx-auto px-4 space-y-12 pb-12">
+          {/* Step 1: Pick a Movie */}
+          <section>
+            <div className="flex items-center space-x-2 mb-4">
+              <span className="inline-block px-2.5 py-1 text-sm font-bold bg-blue-100 text-blue-800 rounded-full">
+                1
+              </span>
+              <h2 className="text-lg font-semibold">Pick a Movie</h2>
+            </div>
+            <div className="relative">
+              {canScrollLeft && (
+                <button
+                  onClick={() => scrollByOffset(-200)}
+                  className="absolute -left-4 top-1/2 transform -translate-y-1/2 w-8 h-8 bg-white shadow-md rounded-full flex items-center justify-center z-10 hover:bg-gray-200"
+                >
+                  <span className="text-gray-600 text-lg pointer-events-none">
+                    &larr;
+                  </span>
+                </button>
+              )}
+
+              <div
+                ref={scrollRef}
+                onScroll={handleScroll}
+                className="flex space-x-4 overflow-x-auto scroll-snap-x snap-x snap-mandatory px-1"
+              >
+                {Object.keys(movieData).map((movie) => {
+                  const filename = "/images/" + movie.toLowerCase() + ".jpg";
+                  return (
+                    <div
+                      key={movie}
+                      onClick={() => setSelectedMovie(movie)}
+                      className={`movie-poster w-32 h-48 rounded-md overflow-hidden flex-shrink-0 cursor-pointer border-2 transition relative snap-start transform transition-transform duration-200 ease-in-out hover:scale-105 hover:shadow-md ${
+                        selectedMovie === movie
+                          ? "border-4 border-blue-600 scale-105 shadow-md"
+                          : "border-transparent"
+                      }`}
+                    >
+                      <Image
+                        src={filename}
+                        alt={formatTitle(movie)}
+                        width={128}
+                        height={192}
+                        className="object-cover w-full h-full"
+                      />
+                      <div className="absolute bottom-0 w-full text-center text-xs bg-black bg-opacity-50 text-white py-1">
+                        {formatTitle(movie)}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+
+              {canScrollRight && (
+                <button
+                  onClick={() => scrollByOffset(200)}
+                  className="absolute right-2 top-1/2 transform -translate-y-1/2 w-8 h-8 bg-white shadow-md rounded-full flex items-center justify-center z-10 hover:bg-gray-200"
+                >
+                  <span className="text-gray-600 text-lg pointer-events-none">
+                    &rarr;
+                  </span>
+                </button>
+              )}
+            </div>
+          </section>
+
+          {/* Step 2: Pick a Framework */}
+          <section>
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4 gap-4">
+              <div className="text-lg font-semibold flex items-center space-x-2">
+                <span className="inline-block px-2.5 py-1 text-sm font-bold bg-blue-100 text-blue-800 rounded-full">
+                  2
+                </span>
+                <h2 className="">Pick a Framework</h2>
+              </div>
+
+              <div className="framework-toggle w-full sm:w-auto flex items-center gap-2">
+                <span className="text-sm text-gray-800">
+                  {showFrameworkSummary
+                    ? "Hide framework explanation"
+                    : "Show framework explanation"}
+                </span>
+                <div
+                  onClick={() => setShowFrameworkSummary(!showFrameworkSummary)}
+                  className={`relative w-11 h-6 rounded-full flex items-center px-0.5 border transition duration-300 cursor-pointer shadow-sm hover:ring-2 hover:ring-blue-300 ${
+                    showFrameworkSummary
+                      ? "bg-blue-400 border-blue-500"
+                      : "bg-white border-gray-300"
+                  }`}
+                >
+                  <div
+                    className={`w-5 h-5 rounded-full transition-transform duration-300 ${
+                      showFrameworkSummary
+                        ? "translate-x-5 bg-white"
+                        : "bg-gray-400"
+                    }`}
+                  />
+                </div>
+              </div>
+            </div>
+            <div className="flex flex-wrap gap-4">
+              {frameworks.map((fw) => (
+                <div key={fw} className="relative">
+                  <button
+                    onClick={() => setSelectedFramework(fw)}
+                    className={`relative group px-4 py-2 rounded border cursor-pointer transition w-48 text-left ${
+                      selectedFramework === fw
+                        ? "bg-blue-100 border-blue-500"
+                        : "bg-white border-gray-300 hover:bg-gray-100"
+                    }`}
+                  >
+                    <div className="font-semibold">{fw}</div>
+                    {showFrameworkSummary && (
+                      <p className="mt-2 text-xs text-gray-700">
+                        {fw === "Hero’s Journey"
+                          ? "The Hero’s Journey is a 12-stage narrative structure identified by Joseph Campbell. It includes steps such as the Call to Adventure, Meeting the Mentor, and Return with the Elixir. It’s used in stories like Star Wars and The Lord of the Rings."
+                          : fw === "Save the Cat"
+                          ? "Save the Cat is a 15-beat screenwriting formula developed by Blake Snyder. It emphasizes clear emotional turning points like the Catalyst, Midpoint, and Finale. Common in Hollywood films."
+                          : "The Story Circle, popularized by Dan Harmon, breaks story into 8 beats based on character transformation. It’s widely used in modern television and emphasizes internal change through cyclical storytelling."}
+                      </p>
+                    )}
+                  </button>
+                </div>
+              ))}
+            </div>
+          </section>
+
+          {/* Breakdown Display */}
+          {selectedMovie && selectedFramework && (
+            <section className="mt-12">
+              <h2 className="text-2xl font-bold mb-4">
+                {formatTitle(selectedMovie)} — {selectedFramework}
+              </h2>
+              <div className="space-y-4">
+                {Object.entries(
+                  movieData[selectedMovie].frameworks[selectedFramework] || {}
+                ).map(([section, text]: [string, unknown]) => (
+                  <div
+                    key={section}
+                    className="p-5 bg-gradient-to-br from-blue-50 to-white border-l-4 border-blue-400 rounded-lg shadow text-sm text-gray-800 space-y-2"
+                  >
+                    <h3 className="font-semibold">{section}</h3>
+                    <p>{String(text)}</p>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+        </main>
+      </div>
     </div>
   );
 }

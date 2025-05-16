@@ -1,0 +1,36 @@
+{
+  "title": "The Lion King",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "A vibrant sunrise sweeps over the Pride Lands as animals gather to celebrate Simba’s birth. It’s a moment of harmony and promise — the ‘circle of life’ in motion.",
+      "Theme Stated": "Mufasa tells Simba, “Everything you see exists together in a delicate balance.” This line introduces the core themes: responsibility, legacy, and the natural order.",
+      "Set-Up": "Simba is introduced as the curious and playful heir to Mufasa. We meet the royal family, Zazu, Nala, and Scar — each revealing layers of conflict, support, or deception.",
+      "Catalyst": "Scar lures Simba and Nala to the elephant graveyard, nearly getting them killed. Mufasa rescues them, but the event underscores Simba’s vulnerability and Scar’s threat.",
+      "Debate": "Simba struggles with guilt and confusion. Scar manipulates him into believing he caused Mufasa’s death. Overcome with shame, Simba runs away, abandoning his identity.",
+      "Break into Two": "In exile, Simba meets Timon and Pumbaa, who introduce him to a carefree lifestyle. He adopts 'Hakuna Matata,' burying his past.",
+      "B Story": "Simba's evolving bond with Timon and Pumbaa represents emotional survival, while his past (and Nala) eventually challenge this escape.",
+      "Fun and Games": "The jungle montage offers comic relief and shows Simba growing up — physically stronger, emotionally numb. Meanwhile, Scar’s tyranny grows back home.",
+      "Midpoint": "Nala finds Simba and pleads for his return. Their reunion sparks romantic tension and a clash of values — Simba resists, paralyzed by guilt and fear.",
+      "Bad Guys Close In": "Scar’s grip on the Pride Lands tightens. The environment and the pride deteriorate, symbolizing the consequences of Simba’s absence.",
+      "All Is Lost": "Simba encounters Rafiki and sees a vision of Mufasa. He realizes he has forgotten who he is and what he must become.",
+      "Dark Night of the Soul": "Haunted by his past, Simba confronts his identity. The weight of his lineage and responsibility finally sinks in.",
+      "Break into Three": "Simba decides to return. With renewed purpose, he races across the desert to confront Scar and reclaim his destiny.",
+      "Finale": "Simba challenges Scar, exposes the truth, and reclaims the throne after a fierce battle. Order is restored to the Pride Lands.",
+      "Final Image": "Simba presents his cub, completing the circle of life. A new dawn rises — the legacy continues with balance restored."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Simba begins as an innocent cub, beloved by his family, living in a structured and abundant kingdom under Mufasa’s rule.",
+      "Call to Adventure": "His curiosity leads him into danger, and his father begins teaching him the responsibilities of being king.",
+      "Trials": "Simba is manipulated, shamed, and exiled. He survives by suppressing his past and embracing an illusion of freedom with Timon and Pumbaa.",
+      "Ordeal": "Nala’s appearance and Rafiki’s guidance force Simba to confront his trauma and reclaim his identity.",
+      "Return": "Simba defeats Scar, reclaims his throne, and assumes his role as king — wiser and transformed by his journey."
+    },
+    "Story Circle": {
+      "You": "Simba is a confident but naive cub, basking in the love of his family and unaware of true hardship.",
+      "Need": "He needs to learn the meaning of responsibility, identity, and how to face his past.",
+      "Go": "He is exiled after his father’s death and lives in denial of who he is.",
+      "Find": "Through friendship, love, and a spiritual awakening, he reconnects with his legacy and his purpose.",
+      "Return": "Simba becomes king — no longer the prideful cub, but a leader shaped by pain, growth, and resolve."
+    }
+  }
+}

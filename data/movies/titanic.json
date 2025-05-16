@@ -1,0 +1,36 @@
+{
+  "title": "Titanic",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "A cold, haunting image of the Titanic wreck on the ocean floor sets a tone of loss and discovery, framing the story as one remembered and rediscovered. It immediately introduces mortality and the passage of time as key themes.",
+      "Theme Stated": "Early in the film, Rose expresses her dissatisfaction with the constraints of her aristocratic life. Her discontent hints at a broader theme: the quest for personal freedom and the courage to defy societal expectations in pursuit of authentic living.",
+      "Set-Up": "We meet Rose as an older woman revisiting her memories, and as a young woman preparing for a marriage of status, not love. Jack is introduced as a poor but adventurous artist who wins his ticket aboard Titanic in a poker game. Their contrasting worlds are clearly established.",
+      "Catalyst": "Jack intervenes in Rose’s attempted suicide, breaking through her isolation. This act not only binds them emotionally, but also signals the beginning of Rose’s inner transformation.",
+      "Debate": "Rose is torn between her role as Cal’s fiancée and the intoxicating freedom she sees in Jack. Her growing discomfort with her class status and the life she’s expected to lead forms the emotional tension of the first act.",
+      "Break into Two": "Rose defies her mother and Cal by choosing to spend time with Jack. She steps into his world — one of improvisation, emotion, and risk — and away from the scripted life laid out for her.",
+      "B Story": "Their romance becomes the emotional center of the film. Jack encourages Rose to express herself, challenge authority, and embrace who she is beyond social labels. Their connection mirrors the film’s broader meditation on choice and self-determination.",
+      "Fun and Games": "The narrative delights in the lovers’ joy — dancing in steerage, sketching sessions, and the iconic 'I'm flying' scene. These moments show the vitality and freedom Rose is discovering aboard the doomed ship.",
+      "Midpoint": "After they make love, Titanic strikes the iceberg. This literal collision coincides with the story’s metaphorical turn — from dream to nightmare, from liberation to survival.",
+      "Bad Guys Close In": "Chaos erupts on the ship. Rose is dragged back toward obedience by Cal and her mother. Jack is falsely accused and imprisoned. The environment becomes hostile, mirroring the collapse of Rose’s emotional gains.",
+      "All Is Lost": "The ship is nearly sunk. Jack is still handcuffed below deck. Rose is faced with the very real possibility of losing everything — her lover, her chance at freedom, her own life.",
+      "Dark Night of the Soul": "Rose escapes to a lifeboat but cannot accept a life built on fear and compromise. In her solitude, she realizes that Jack gave her not just love, but a new vision of herself.",
+      "Break into Three": "Rose leaps back onto the Titanic to be with Jack, choosing love and agency over survival dictated by class structures. This action reaffirms her transformation.",
+      "Finale": "Jack and Rose fight to survive. Jack’s death cements his role as the catalyst of her change, while Rose lives on to fulfill the life he helped her see was possible.",
+      "Final Image": "The elderly Rose drops the Heart of the Ocean into the sea — a symbolic act of release. In death, she reunites with Jack, completing the arc of memory, love, and self-liberation."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Rose lives a life of wealth and privilege, but feels stifled and hopeless — to the point of contemplating suicide. Jack, by contrast, lives freely but without deeper connection or purpose.",
+      "Call to Adventure": "Jack saves Rose, and through this act, both are pulled into each other’s lives. Rose is offered an alternative to the path she’s been forced onto.",
+      "Trials": "Their love is tested by class conflict, societal judgment, and Cal’s increasing control. The Titanic itself becomes a crucible, intensifying every emotional and physical trial.",
+      "Ordeal": "The ship hits the iceberg. Jack is arrested. Amid the chaos, both characters face death. Rose chooses Jack and the life he represents over comfort and obedience.",
+      "Return": "Jack dies, but Rose survives. She honors his memory by living freely and fully, rejecting the social script she once followed. Her life becomes a tribute to their brief, transformative connection."
+    },
+    "Story Circle": {
+      "You": "Rose is a privileged young woman shackled by societal expectations. Jack is a rootless artist, living freely but without deeper personal stakes.",
+      "Need": "Both yearn for something more — Rose seeks identity and autonomy, while Jack desires meaningful connection.",
+      "Go": "Their worlds collide on the Titanic, igniting a romance that challenges their beliefs about life, love, and self-worth.",
+      "Find": "In each other, they find courage, vulnerability, and clarity. Rose learns to see herself outside the confines of her class and family.",
+      "Return": "Though Jack dies, Rose emerges reborn. She lives the kind of life Jack would have — one of risk, joy, and self-definition."
+    }
+  }
+}

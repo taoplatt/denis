@@ -1,0 +1,36 @@
+{
+  "title": "Inception",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Cobb washes up on a mysterious shore — a disoriented figure caught between dream and reality, which foreshadows the film’s central conflict.",
+      "Theme Stated": "Early in the film, Cobb states: “An idea is like a virus...” This line encapsulates the core theme: the dangerous, unstoppable power of belief and memory.",
+      "Set-Up": "We learn that Cobb is a master extractor — someone who steals ideas from dreams. He is also a fugitive, unable to return home due to unresolved guilt over his wife's death. His team and emotional wounds are introduced.",
+      "Catalyst": "Saito offers Cobb a way back to his children — a clean slate — if he can do the impossible: plant an idea in someone’s mind (inception).",
+      "Debate": "Cobb hesitates, knowing inception is risky and potentially harmful. He also fears his subconscious projections, especially of his late wife, Mal, might sabotage the mission.",
+      "Break into Two": "Cobb assembles his dream team: Arthur, Ariadne, Eames, and Yusuf. They dive into the multilayered dream world with their target, Robert Fischer.",
+      "B Story": "The emotional spine of the story is Cobb’s inner battle with Mal. Ariadne becomes his confidante and moral mirror, urging him to confront his buried guilt.",
+      "Fun and Games": "The mechanics of shared dreaming unfold: dream training, paradoxical architecture, zero gravity, and imaginative action set pieces.",
+      "Midpoint": "The team enters the dream-within-a-dream. Stakes escalate — if they die in the dream, they’ll be trapped in limbo due to heavy sedation.",
+      "Bad Guys Close In": "Mal’s interference worsens. Cobb’s mental instability threatens the mission. The deeper they go, the more fragile the dream becomes.",
+      "All Is Lost": "Cobb and Ariadne must descend into limbo. Saito is dying. The mission — and Cobb’s hope for redemption — is on the brink of collapse.",
+      "Dark Night of the Soul": "Cobb confronts Mal and accepts the truth: he implanted the idea that led to her suicide. He must forgive himself and let her go.",
+      "Break into Three": "Freed from guilt, Cobb helps Ariadne escape limbo and searches for Saito in the deepest dream layer.",
+      "Finale": "The mission is a success. Saito honors his promise, and Cobb returns to the U.S. He reunites with his children, at peace for the first time.",
+      "Final Image": "The spinning top — a symbol of ambiguity — continues to spin, leaving us unsure if Cobb is dreaming, but suggesting he no longer cares."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Cobb is a dream thief consumed by guilt and separated from his family, surviving on corporate espionage and regret.",
+      "Call to Adventure": "Saito offers Cobb a way home — one last job that involves inception, something Cobb claims is impossible.",
+      "Trials": "Cobb assembles a crew and navigates hostile dreamscapes. He must balance the logistical challenges with emotional landmines, especially Mal’s recurring sabotage.",
+      "Ordeal": "In limbo, Cobb confronts Mal’s projection and the painful memory of her death. This is his emotional crucible — the moment he must truly change.",
+      "Return": "Having let go of the past, Cobb awakens. The mission succeeds, and he’s reunited with his children, spiritually and physically transformed."
+    },
+    "Story Circle": {
+      "You": "Cobb is a brilliant extractor defined by loss, guilt, and a desire to return to his children.",
+      "Need": "He must forgive himself for Mal’s death and learn to live in the present rather than escape into memory.",
+      "Go": "He undertakes an inception job that forces him into the deepest layers of dream — and of his own psyche.",
+      "Find": "In limbo, he accepts his role in Mal’s demise and chooses to release her memory.",
+      "Return": "He completes the mission and returns to his children — no longer running, no longer dreaming."
+    }
+  }
+}

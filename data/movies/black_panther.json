@@ -1,0 +1,36 @@
+{
+  "title": "Black Panther",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "A storybook-style prologue tells of Wakanda’s mythic origins, blending Afrofuturism with tradition. We see a nation defined by secrecy, technology, and ancestry.",
+      "Theme Stated": "During a conversation with his father’s spirit, T’Challa hears: “You’re a good man with a good heart, and it’s hard for a good man to be king.” This sets up the tension between compassion and strength in leadership.",
+      "Set-Up": "T’Challa is introduced amid the political and emotional fallout of his father’s death. We meet key figures — Nakia, Okoye, Shuri — and get a sense of Wakanda’s isolationist philosophy.",
+      "Catalyst": "Ulysses Klaue resurfaces, threatening to expose Wakanda’s secrets to the world. This outside pressure forces T’Challa to confront the dangers of inaction.",
+      "Debate": "T’Challa must decide whether to pursue Klaue, whether to maintain Wakanda’s traditions, and whether to follow his father’s path. Doubts begin to surface.",
+      "Break into Two": "He embraces the Black Panther mantle and takes action, initiating his pursuit of Klaue. This propels him into a more dangerous and morally ambiguous world.",
+      "B Story": "His relationship with Nakia and the ideological tension between them reflect the deeper conflict: what responsibility does Wakanda owe to others?",
+      "Fun and Games": "We explore Wakanda’s stunning tech, rituals, and customs. Action sequences in Korea and ceremonial combat highlight the film’s style and stakes.",
+      "Midpoint": "T’Challa captures Klaue but loses him to Killmonger, who arrives with a challenge rooted in royal blood and generational trauma. Stakes skyrocket.",
+      "Bad Guys Close In": "Killmonger defeats T’Challa in ritual combat, seizes the throne, and begins arming the oppressed. Wakanda fractures — physically and ideologically.",
+      "All Is Lost": "T’Challa is presumed dead. His allies are divided. The legacy he hoped to honor appears to have failed the world.",
+      "Dark Night of the Soul": "On the ancestral plane, T’Challa confronts the sins of his forebears and rejects their example. He realizes that loyalty to the past is not enough.",
+      "Break into Three": "He returns to Wakanda and unites disparate allies. His leadership now stems from a newly forged identity — neither traditionalist nor radical, but visionary.",
+      "Finale": "T’Challa defeats Killmonger, not with vengeance but with principle. He later chooses to reveal Wakanda to the world, embracing responsibility over fear.",
+      "Final Image": "From an invisible kingdom to an open one — Wakanda stands ready to lead by example, and T’Challa has truly become king."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "T’Challa begins in the wake of his father’s death, stepping into a world where he is both heir and protector of a technologically advanced but isolated nation. His identity is shaped by tradition, legacy, and a strong sense of duty.",
+      "Call to Adventure": "As he prepares for his coronation, external challenges emerge — notably Klaue’s reappearance — and internal questions are raised about Wakanda’s role on the global stage. T’Challa must define what kind of king he wants to be.",
+      "Trials": "T’Challa undergoes ceremonial combat, grapples with doubts about his father’s legacy, and confronts Killmonger — a powerful adversary with a compelling ideological stance. These conflicts test his physical abilities, beliefs, and moral compass.",
+      "Ordeal": "After losing to Killmonger in ritual combat and being cast out, T’Challa confronts the possibility that his ancestors and traditions may have led Wakanda astray. This low point forces him to re-evaluate the meaning of leadership and justice.",
+      "Return": "Reinvigorated with a broader vision, T’Challa reclaims the throne not just to defeat Killmonger, but to guide Wakanda into a new era — one that balances tradition with outreach and responsibility to the global community."
+    },
+    "Story Circle": {
+      "You": "T’Challa is a grieving son and newly crowned king, grounded in tradition and loyalty to his ancestors.",
+      "Need": "He must learn to question the past, redefine strength, and open his heart to a more inclusive vision of leadership.",
+      "Go": "He pursues Klaue and later faces Killmonger, confronting the cracks in Wakanda’s identity and his own beliefs.",
+      "Find": "He discovers that greatness requires more than heritage — it requires moral clarity, sacrifice, and global responsibility.",
+      "Return": "T’Challa transforms Wakanda’s path and his own legacy, revealing a new model of kingship rooted in empathy and justice."
+    }
+  }
+}

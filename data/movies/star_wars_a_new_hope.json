@@ -1,0 +1,36 @@
+{
+  "title": "Star Wars: A New Hope",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "A Rebel ship under siege — chaos, desperation, and the iron grip of the Empire. It sets the tone for a universe in turmoil and the need for new heroes.",
+      "Theme Stated": "“The Force will be with you, always.” This spiritual axiom underpins Luke’s journey from self-doubt to belief — in himself and in something greater.",
+      "Set-Up": "Luke Skywalker is introduced on the desert planet Tatooine, yearning for adventure but stuck in a mundane, isolated life. We meet key players: Leia, Vader, the droids, and Obi-Wan.",
+      "Catalyst": "Luke discovers a hidden message in R2-D2 from Princess Leia, urging Obi-Wan Kenobi to help. This sparks the beginning of Luke's shift from farm boy to freedom fighter.",
+      "Debate": "Initially reluctant, Luke is torn between duty to his aunt and uncle and the lure of a bigger destiny. After their death, his choice is tragically sealed.",
+      "Break into Two": "Luke commits to the journey and leaves Tatooine with Obi-Wan. He steps into a new world of smugglers, Jedi, and rebellion.",
+      "B Story": "Luke's relationships with Leia, Han, and Obi-Wan deepen. Each represents different aspects of his growth: courage, skepticism, and wisdom.",
+      "Fun and Games": "Training aboard the Falcon, escaping from the Death Star, and daring rescues highlight the film’s swashbuckling tone and character dynamics.",
+      "Midpoint": "Obi-Wan sacrifices himself to ensure the others escape. It’s a moment of loss, mystery, and transformation for Luke.",
+      "Bad Guys Close In": "The Empire tracks the rebels to their hidden base, and the Death Star looms as an unstoppable threat.",
+      "All Is Lost": "The rebels are outnumbered and underpowered. The Death Star is minutes away from destroying their base. Hope seems lost.",
+      "Dark Night of the Soul": "Luke doubts himself and the Force. The mission is risky, and Obi-Wan is gone. Can he really succeed?",
+      "Break into Three": "He joins the final assault and, guided by Obi-Wan’s voice, turns off his targeting computer — embracing the Force.",
+      "Finale": "Luke destroys the Death Star with the Force as his ally. It’s a spiritual and tactical victory.",
+      "Final Image": "Luke is honored by the Rebellion — no longer a boy, but a symbol of hope, courage, and the Jedi path."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Luke lives a modest life on Tatooine, unaware of his larger destiny. He yearns for more but feels tethered by obligation.",
+      "Call to Adventure": "A mysterious message hidden in a droid and a fateful encounter with Obi-Wan ignite the journey.",
+      "Trials": "Luke learns about the Force, witnesses death, rescues Leia, and navigates the perils of the Death Star.",
+      "Ordeal": "Obi-Wan’s death forces Luke to rely on inner strength. The final assault on the Death Star is his great trial.",
+      "Return": "He destroys the Death Star, fully embracing his role in the Rebellion and taking the first step toward becoming a Jedi."
+    },
+    "Story Circle": {
+      "You": "Luke is a restless farm boy, naive and inexperienced, living in the shadow of greater galactic forces.",
+      "Need": "He must discover his inner strength and sense of purpose, and overcome his fear of inadequacy.",
+      "Go": "Luke joins Obi-Wan and the Rebels, fleeing Tatooine and entering a broader conflict.",
+      "Find": "He gains skills, allies, and a spiritual path through loss and danger.",
+      "Return": "Luke returns as a hero — transformed, confident, and aligned with the Force."
+    }
+  }
+}

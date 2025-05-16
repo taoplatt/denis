@@ -1,0 +1,36 @@
+{
+  "title": "The Matrix",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Neo is asleep at his computer — disconnected from the world, unaware of his greater purpose. The flickering screens and empty apartment signal isolation and a craving for something more.",
+      "Theme Stated": "Morpheus tells Neo, “What you know you can't explain, but you feel it.” This encapsulates the film’s central theme: reality vs. illusion, and the courage it takes to wake up.",
+      "Set-Up": "Thomas Anderson leads a double life as a programmer by day and hacker 'Neo' by night. He’s searching for the truth behind ‘The Matrix.’ His encounters with Trinity and the cryptic message to ‘follow the white rabbit’ build suspense.",
+      "Catalyst": "Neo is contacted by Morpheus and confronted by Agents. The world he knows is starting to unravel — fast.",
+      "Debate": "Neo is offered the red pill and blue pill — a choice between ignorance and truth. He hesitates, embodying the human fear of leaving comfort behind.",
+      "Break into Two": "Neo takes the red pill and awakens in the real world, bald, weak, and submerged in fluid. The simulation is shattered.",
+      "B Story": "Neo forms a deeper connection with Trinity and receives guidance from Morpheus. These relationships reflect his emerging identity and purpose.",
+      "Fun and Games": "Neo trains inside simulations, learns kung fu, and defies the laws of physics. These sequences explore the rules of the Matrix and Neo’s evolution.",
+      "Midpoint": "Neo visits the Oracle, who tells him he is not The One. This apparent setback amplifies the stakes and sets up his arc of self-belief.",
+      "Bad Guys Close In": "Morpheus is captured. The Agents close in. Neo begins to feel the weight of his decisions and the limits of his abilities.",
+      "All Is Lost": "Neo decides to save Morpheus despite believing he isn’t The One — an act of selflessness that risks everything.",
+      "Dark Night of the Soul": "Neo faces Agent Smith and dies. In this moment of darkness, he seemingly fails in his mission and life.",
+      "Break into Three": "Trinity confesses her belief in him and her love. Neo revives, embracing his true power.",
+      "Finale": "Neo stops bullets, defeats Agent Smith, and fully realizes his role as The One — a liberator of minds.",
+      "Final Image": "Neo takes flight, broadcasting a message of awakening. The once-lost hacker is now a savior, fully awakened and powerful."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Neo is trapped in a mundane existence — corporate job by day, digital rebellion by night. He senses there’s more to life but doesn’t know what.",
+      "Call to Adventure": "He’s contacted by Morpheus and told that the world he knows is a simulation. He’s given a choice to learn the truth.",
+      "Trials": "Neo endures physical training, mental rewiring, and spiritual doubt. He questions his role and identity as others place their hopes in him.",
+      "Ordeal": "He sacrifices himself to save Morpheus and is killed by Agent Smith. It’s the ultimate act of selflessness and courage.",
+      "Return": "He resurrects, unlocks his full power, and reshapes reality from within the Matrix. Neo now embodies hope and revolution."
+    },
+    "Story Circle": {
+      "You": "Neo is a disaffected hacker plagued by dreams and the sense that something is wrong with reality.",
+      "Need": "He must let go of fear, embrace truth, and believe in himself.",
+      "Go": "He follows Morpheus, leaves the Matrix, and begins training in a strange new reality.",
+      "Find": "Neo discovers he is more than he believed — not through prophecy, but through choice, sacrifice, and belief.",
+      "Return": "He becomes The One — a liberated soul who can change the system and inspire others to awaken."
+    }
+  }
+}

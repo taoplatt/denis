@@ -1,0 +1,36 @@
+{
+  "title": "Dune",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Life on Caladan is serene and structured — an image of political privilege and relative peace. Paul, however, dreams of the desert, subtly signaling an inner restlessness and prophetic tension.",
+      "Theme Stated": "Themes of destiny, sacrifice, and ecological balance are hinted at during Paul’s lessons with his mentors and his mother’s insistence on discipline and legacy.",
+      "Set-Up": "We are introduced to House Atreides, a noble family with a strong moral compass, and the political world they navigate. Paul’s relationships with his father, mother, Duncan, and Gurney are outlined, revealing both affection and pressure.",
+      "Catalyst": "The Emperor tasks House Atreides with ruling Arrakis, home of the spice melange. Though it appears an honor, it is quickly understood to be a dangerous political trap designed to destroy them.",
+      "Debate": "Paul struggles with his emerging visions and questions his role as heir and possible messianic figure. Duke Leto discusses the danger of Arrakis. Jessica worries about the Bene Gesserit plan and Paul’s fate.",
+      "Break into Two": "The Atreides arrive on Arrakis, stepping into a landscape of sand, sabotage, and survival. Political intrigue and cultural dissonance begin to shape the new reality.",
+      "B Story": "Paul’s connection with Jessica deepens as he learns more Bene Gesserit techniques. Meanwhile, his growing connection with the Fremen culture — especially through dreams and Chani — becomes the emotional and spiritual axis of his transformation.",
+      "Fun and Games": "Exploration of Arrakis, interactions with the Fremen, spice harvesting sequences, and the formalities of political rule unfold. Paul’s visions intensify as he glimpses a bloody jihad led in his name.",
+      "Midpoint": "A brutal betrayal: House Atreides is ambushed by the Sardaukar and Harkonnen forces. Paul and Jessica escape into the desert, where survival becomes the primary challenge.",
+      "Bad Guys Close In": "On the run and hunted, Paul begins to lose his innocence. His visions become more vivid and apocalyptic. Tensions rise as they seek refuge with the Fremen.",
+      "All Is Lost": "Duke Leto is killed. The Atreides legacy is shattered. Paul is left fatherless and burdened with expectations and visions he neither asked for nor fully understands.",
+      "Dark Night of the Soul": "Paul contemplates the inevitability of becoming a weaponized figurehead. He questions whether free will is possible or if he’s bound to a violent destiny.",
+      "Break into Three": "Paul and Jessica are accepted by the Fremen. Paul makes the conscious decision to embrace the desert and begin forging a new identity.",
+      "Finale": "Paul begins his transformation into Muad’Dib, aligning himself with the Fremen way of life and accepting a messianic path — not as passive victim but as strategic agent.",
+      "Final Image": "From privileged noble to potential god-king, Paul stands at the edge of the desert, no longer a boy seeking purpose but a man shaped by prophecy and survival."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Paul lives on Caladan, trained in combat, politics, and mysticism, yet uncertain about his destiny. He is the heir to House Atreides, but his dreams and lineage suggest a greater, stranger path.",
+      "Call to Adventure": "The Emperor sends House Atreides to take over Arrakis. Simultaneously, Paul’s visions and Bene Gesserit conditioning hint at a cosmic purpose.",
+      "Trials": "Paul must navigate betrayal, the collapse of his family, and the brutal Arrakis desert. Encounters with the sandworms, Fremen, and spice-induced visions test his body and mind.",
+      "Ordeal": "After escaping the Harkonnen attack, Paul drinks the Water of Life and survives, unlocking deeper prophetic abilities and embracing the persona of Muad’Dib.",
+      "Return": "Paul begins uniting the Fremen, no longer the noble son of a duke but a prophetic figure ready to confront empire and reshape the galaxy."
+    },
+    "Story Circle": {
+      "You": "Paul is a gifted but uncertain heir, shaped by royal duty, ancient prophecy, and unspoken fears.",
+      "Need": "He must reconcile his desire for autonomy with the weight of destiny — to move from passive dreamer to active shaper of the future.",
+      "Go": "He travels to Arrakis and is plunged into political betrayal and physical exile in a hostile environment.",
+      "Find": "In the desert, he connects with the Fremen and the planet’s rhythms, unlocking a deeper awareness of time, purpose, and consequence.",
+      "Return": "Paul begins to lead — not out of ambition, but out of necessity. He returns from the desert not as heir, but as messiah-in-the-making."
+    }
+  }
+}

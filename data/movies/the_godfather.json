@@ -1,0 +1,36 @@
+{
+  "title": "The Godfather",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "At a wedding, requests are made to Don Corleone — a display of power wrapped in civility and tradition. The Godfather’s world is built on codes of honor and fear.",
+      "Theme Stated": "Michael tells Kay, “That’s my family, Kay, it’s not me.” This line encapsulates the theme of identity, inevitability, and the cost of legacy.",
+      "Set-Up": "Michael is positioned as the outsider — the Americanized war hero, disconnected from the family business. The rest of the Corleones operate within a closed, old-world code.",
+      "Catalyst": "Vito Corleone is gunned down after refusing to enter the narcotics trade, exposing the family's vulnerability and forcing Michael to reconsider his distance.",
+      "Debate": "Michael is torn — he wants to protect his father but stay uninvolved. The family fractures, and rival families begin to assert dominance.",
+      "Break into Two": "Michael kills Sollozzo and McCluskey — a violent, public rejection of his former self and a descent into the world he tried to avoid.",
+      "B Story": "Michael’s romance and marriage in Sicily parallel his transformation. The tranquil setting contrasts sharply with the blood-soaked choices he’s made and will continue to make.",
+      "Fun and Games": "Michael lives in exile, while Sonny and Tom navigate the family’s weakening position. The film’s midsection explores the workings of Mafia power dynamics and retaliation.",
+      "Midpoint": "Sonny is ambushed and murdered. The cost of pride and impulsiveness escalates, and the family reels from the loss of its hot-blooded heir.",
+      "Bad Guys Close In": "Vito makes peace, but Michael returns, now colder and more calculating. The family is weakened externally and divided internally.",
+      "All Is Lost": "Vito dies. Michael is now head of the family. The old guard is gone, and the final decisions rest with him.",
+      "Dark Night of the Soul": "Michael prepares to enact vengeance. The moral and emotional cost of his choices weighs heavily — he’s not the war hero anymore, but a strategist of death.",
+      "Break into Three": "Michael orchestrates a simultaneous, ruthless takedown of all rival Dons during the baptism of his nephew — cementing his control through blood.",
+      "Finale": "With the enemies eliminated, Michael asserts complete dominance. He lies to Kay and allows her to be shut out from his true self.",
+      "Final Image": "The door closes on Kay’s face as Michael is addressed as Don Corleone — the transformation is complete. He has become what he once rejected."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Michael is a decorated Marine and idealist, proudly removed from his family’s criminal enterprise.",
+      "Call to Adventure": "When Vito Corleone is shot, Michael steps closer to the underworld to protect his father.",
+      "Trials": "He kills to defend the family, is exiled to Sicily, and loses his wife — shedding layers of innocence.",
+      "Ordeal": "He returns to a weakened family and must rise as its new head. This means embracing cold-blooded strategy and violence.",
+      "Return": "Michael ascends as Don Corleone, fully transformed — feared, respected, and emotionally closed off."
+    },
+    "Story Circle": {
+      "You": "Michael is a noble outsider — loyal to family but detached from its business and brutality.",
+      "Need": "He must reconcile personal morality with inherited power and decide what kind of leader he will become.",
+      "Go": "He enters the Mafia world after the attack on his father, believing he can navigate it cleanly.",
+      "Find": "The cost of power becomes clear — violence, loss, and emotional distance reshape him.",
+      "Return": "Michael becomes the Godfather — powerful but spiritually isolated, embodying the very legacy he resisted."
+    }
+  }
+}
