@@ -1,7 +1,8 @@
+import type { NextApiRequest, NextApiResponse } from "next";
 import fs from "fs";
 import path from "path";
 
-export default function handler(req, res) {
+export default function handler(req: NextApiRequest, res: NextApiResponse) {
   const dir = path.join(process.cwd(), "data", "movies"); // full path to your folder
   const files = fs.readdirSync(dir); // get all files in the folder
 
