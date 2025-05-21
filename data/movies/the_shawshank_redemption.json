@@ -1,0 +1,39 @@
+{
+  "title": "The Shawshank Redemption",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Andy Dufresne, a composed and dignified banker, arrives at Shawshank Prison, symbolizing a life abruptly shattered and the beginning of his long, arduous journey.",
+      "Theme Stated": "Red warns Andy, 'Get busy living, or get busy dying,' foreshadowing the film’s meditation on hope and the will to survive against despair.",
+      "Set-Up": "Andy adjusts to prison life, facing hostility and isolation, while forging initial bonds with Red and other inmates, establishing the oppressive world of Shawshank.",
+      "Catalyst": "Andy is brutally assaulted by the Sisters, revealing the brutal reality of prison and setting the stakes for his survival and resilience.",
+      "Debate": "Andy contemplates surrendering to the bleakness or finding a way to carve meaning and agency within the walls, wrestling with despair and hope.",
+      "Break into Two": "Andy decides to use his unique skills to gain favor with the guards and warden, marking his proactive move into a new role inside Shawshank’s hierarchy.",
+      "B Story": "The deepening friendship between Andy and Red provides emotional grounding, exploring themes of trust, redemption, and companionship amid confinement.",
+      "Fun and Games": "Andy improves the prison library, helps inmates earn their GEDs, and manipulates the corrupt system to benefit prisoners, showcasing his quiet rebellion and ingenuity.",
+      "Midpoint": "Andy secures a position managing the warden’s finances, a triumph that brings him power but also deeper entanglement in the prison’s corruption; hope seems tangible.",
+      "Bad Guys Close In": "The warden’s corruption grows more dangerous; Tommy’s arrival threatens to expose the truth about Andy’s conviction, intensifying external and internal pressures.",
+      "All Is Lost": "Tommy is murdered on the warden’s orders, and Andy is thrown into solitary confinement, crushed under betrayal and the seeming futility of justice.",
+      "Dark Night of the Soul": "In isolation, Andy confronts despair and reflects on his long-term plan, reaffirming his quiet hope and resolve to reclaim freedom on his terms.",
+      "Break into Three": "Andy escapes Shawshank through a meticulously planned tunnel, seizing his moment to break free from physical and psychological imprisonment.",
+      "Finale": "Andy exposes the warden’s corruption via sent letters, securing justice and freedom for himself and Red; Red receives parole and joins Andy in Mexico, symbolizing renewal.",
+      "Final Image": "Red and Andy reunited on a sun-drenched beach, embodying redemption, enduring hope, and the triumph of the human spirit beyond confinement."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Andy lives a quiet, ordered life as a banker, unaware of the upheaval soon to come.",
+      "Call to Adventure": "He is wrongfully convicted of murder and sentenced to life in Shawshank State Prison.",
+      "Trials": "Andy faces violent inmates, corrupt guards, and the crushing monotony of prison life, while forging alliances and using his intellect to survive.",
+      "Ordeal": "After Tommy’s murder and his solitary confinement, Andy confronts his lowest point, wrestling with isolation and despair.",
+      "Return": "Andy escapes Shawshank, exposes the corrupt warden, and reunites with Red, returning metaphorically and literally to a life of freedom and hope."
+    },
+    "Story Circle": {
+      "You": "Andy Dufresne, a man wrongfully imprisoned, lives within the constrained, brutal world of Shawshank.",
+      "Need": "He longs for freedom, justice, and to maintain his dignity and hope amid crushing injustice.",
+      "Go": "Andy chooses to navigate the prison’s corrupt system using his unique skills and intellect.",
+      "Search": "He endures physical and psychological trials, building friendships and influencing others while secretly planning his escape.",
+      "Find": "Andy uncovers the truth behind his conviction and gains leverage over the warden through financial manipulation.",
+      "Take": "He risks everything to expose corruption and execute his escape plan, sacrificing safety for ultimate freedom.",
+      "Return": "Andy emerges free, having dismantled the corrupt prison regime; Red is also freed and joins him.",
+      "Change": "Both men transform from prisoners defined by their pasts into renewed beings embodying hope, friendship, and redemption."
+    }
+  }
+}

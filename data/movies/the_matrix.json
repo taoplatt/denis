@@ -27,10 +27,13 @@
     },
     "Story Circle": {
       "You": "Neo is a disaffected hacker plagued by dreams and the sense that something is wrong with reality.",
-      "Need": "He must let go of fear, embrace truth, and believe in himself.",
-      "Go": "He follows Morpheus, leaves the Matrix, and begins training in a strange new reality.",
-      "Find": "Neo discovers he is more than he believed — not through prophecy, but through choice, sacrifice, and belief.",
-      "Return": "He becomes The One — a liberated soul who can change the system and inspire others to awaken."
+      "Need": "He desires to know the truth, but truly needs to let go of fear, trust himself, and embrace his potential.",
+      "Go": "He follows Morpheus, takes the red pill, and awakens in the real world — a harsh and disorienting new reality.",
+      "Search": "Neo undergoes training, learns about the Matrix, and struggles to believe he could be The One.",
+      "Find": "Despite doubts, Neo begins to exhibit unique powers and gains a sense of agency and purpose.",
+      "Take": "He risks everything to save Morpheus, sacrifices himself, and dies — facing his greatest fear.",
+      "Return": "Neo resurrects, sees the Matrix for what it truly is, and defeats Agent Smith from within.",
+      "Change": "He is no longer Thomas Anderson, but Neo — awakened, empowered, and ready to free others."
     }
   }
 }

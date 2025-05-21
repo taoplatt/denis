@@ -1,0 +1,39 @@
+{
+  "title": "Pulp Fiction",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Vincent and Jules casually discuss mundane topics in a diner, setting a deceptively calm, conversational tone before the violence erupts.",
+      "Theme Stated": "Through the dialogue on foot massages and divine intervention, the film hints at fate, redemption, and moral ambiguity as its central themes.",
+      "Set-Up": "We meet hitmen Jules and Vincent, boxer Butch, gangster Marsellus, and their intertwining lives in Los Angeles, establishing character motivations and conflicts.",
+      "Catalyst": "The mysterious briefcase and the impending confrontation between Jules, Vincent, and a group of young criminals escalate tension.",
+      "Debate": "Characters wrestle with choices — Jules contemplates quitting his violent life, Butch debates whether to honor his deal or escape with his life.",
+      "Break into Two": "Jules decides to retire after a near-death experience, while Butch breaks his deal by returning for his watch, plunging the narrative into chaos.",
+      "B Story": "The evolving relationship between Vincent and Mia Wallace introduces themes of temptation, loyalty, and mortality.",
+      "Fun and Games": "Vincent escorts Mia on a night out filled with iconic dance scenes and tense moments, blending charm and danger.",
+      "Midpoint": "Mia's overdose shocks Vincent, turning their playful night into a desperate fight for survival, shifting the story’s tone from light to grave.",
+      "Bad Guys Close In": "Butch's escape plan unravels as he confronts Marsellus and his henchmen, while Jules and Vincent face mounting threats from rival criminals.",
+      "All Is Lost": "The tense pawnshop basement scene where Butch and Marsellus are captured, the characters face potential death and ultimate vulnerability.",
+      "Dark Night of the Soul": "In the basement, Butch and Marsellus experience a moment of reckoning; Marsellus’s decision to spare Butch hints at a complex moral code.",
+      "Break into Three": "Jules’s choice to show mercy and walk away from his violent life signals a turning point, while Butch flees, reclaiming agency over his fate.",
+      "Finale": "Back in the diner, Jules diffuses a hostage situation with wisdom and calm, embodying his transformation and the film’s meditation on choice and redemption.",
+      "Final Image": "Jules leaves the diner, a man changed, while Vincent’s fate remains ominously unresolved, closing the film on a note of moral complexity."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "In the gritty urban landscape of Los Angeles, criminals and lowlifes navigate a world of violence and chance.",
+      "Call to Adventure": "Jules and Vincent are tasked with retrieving a mysterious briefcase; Butch is pressured to throw a fight, drawing all into conflict.",
+      "Trials": "Encounters with rival gangsters, near-death experiences, and tense negotiations test each character’s resolve and morality.",
+      "Ordeal": "Jules’s epiphany after surviving a shootout unscathed forces him to confront his lifestyle; Butch’s violent confrontation with Marsellus is a crucible of survival.",
+      "Return": "Jules chooses redemption and peace, stepping away from crime; Butch escapes the cycle of violence, seeking a new beginning."
+    },
+    "Story Circle": {
+      "You": "Various characters are introduced in their everyday criminal lives — hitmen, boxers, and gangsters entrenched in violence.",
+      "Need": "Each character desires something: survival, respect, freedom, or redemption amidst chaos and danger.",
+      "Go": "They embark on risky missions — retrieving the briefcase, throwing a fight, or surviving a night out — pushing them out of comfort zones.",
+      "Search": "Through intense, often violent experiences, they confront moral dilemmas, temptation, and death.",
+      "Find": "Moments of revelation occur — Jules’s spiritual awakening, Butch’s reclaiming of honor, Vincent’s brush with mortality.",
+      "Take": "They face consequences — shootouts, betrayals, and near-fatal situations force hard choices and sacrifices.",
+      "Return": "Some choose transformation — Jules walks away from crime; Butch escapes the city, aiming for a new life.",
+      "Change": "Characters emerge altered, embodying themes of fate, redemption, and the blurred lines between good and evil."
+    }
+  }
+}

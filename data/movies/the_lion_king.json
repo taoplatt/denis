@@ -27,10 +27,13 @@
     },
     "Story Circle": {
       "You": "Simba is a confident but naive cub, basking in the love of his family and unaware of true hardship.",
-      "Need": "He needs to learn the meaning of responsibility, identity, and how to face his past.",
-      "Go": "He is exiled after his father’s death and lives in denial of who he is.",
-      "Find": "Through friendship, love, and a spiritual awakening, he reconnects with his legacy and his purpose.",
-      "Return": "Simba becomes king — no longer the prideful cub, but a leader shaped by pain, growth, and resolve."
+      "Need": "He desires greatness and freedom, but needs to understand the weight of responsibility and identity.",
+      "Go": "After Mufasa’s death and Scar’s manipulation, Simba runs away into exile, believing he caused the tragedy.",
+      "Search": "He embraces a carefree life with Timon and Pumbaa, suppressing his guilt and responsibilities.",
+      "Find": "Nala and Rafiki challenge him, and a vision of Mufasa helps him see the truth of who he is.",
+      "Take": "Facing his past is painful; Simba risks rejection, relives trauma, and must confront Scar and his own shame.",
+      "Return": "He journeys home and fights to reclaim his place in the Circle of Life.",
+      "Change": "Simba takes his place as king — mature, self-aware, and ready to uphold his father’s legacy."
     }
   }
 }

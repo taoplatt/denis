@@ -27,10 +27,13 @@
     },
     "Story Circle": {
       "You": "Luke is a restless farm boy, naive and inexperienced, living in the shadow of greater galactic forces.",
-      "Need": "He must discover his inner strength and sense of purpose, and overcome his fear of inadequacy.",
-      "Go": "Luke joins Obi-Wan and the Rebels, fleeing Tatooine and entering a broader conflict.",
-      "Find": "He gains skills, allies, and a spiritual path through loss and danger.",
-      "Return": "Luke returns as a hero — transformed, confident, and aligned with the Force."
+      "Need": "He yearns for adventure and meaning, but truly needs to trust himself and accept his role in something larger.",
+      "Go": "He leaves Tatooine with Obi-Wan after his aunt and uncle are killed, stepping into a world of rebels, the Force, and the Empire.",
+      "Search": "Luke trains with Obi-Wan, makes new allies, and begins to see the scope of the rebellion and the threat of the Death Star.",
+      "Find": "He discovers his potential, spiritual guidance through the Force, and a deeper sense of responsibility.",
+      "Take": "Obi-Wan’s death forces Luke to stand on his own. He faces enormous danger in the final assault on the Death Star.",
+      "Return": "He flies back to the rebel base as a hero, having faced his fears and risen to the occasion.",
+      "Change": "Luke is no longer just a dreamer. He’s confident, committed, and has begun to walk the path of the Jedi."
     }
   }
 }

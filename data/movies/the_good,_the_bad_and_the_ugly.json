@@ -1,0 +1,39 @@
+{
+  "title": "The Good, the Bad and the Ugly",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "The barren, war-torn Southwest, introducing Blondie (The Good) calmly executing a cold, calculated bounty hunt amid chaos.",
+      "Theme Stated": "In a world ravaged by greed and violence, trust is scarce and survival demands cunning over morality.",
+      "Set-Up": "Blondie saves Tuco (The Ugly) from a lynching, establishing their uneasy partnership and revealing their contrasting natures—one methodical and principled, the other chaotic and opportunistic.",
+      "Catalyst": "Blondie and Tuco learn about a hidden cache of Confederate gold buried in a cemetery, igniting their shared obsession and setting the quest in motion.",
+      "Debate": "The duo grapples with mutual distrust, debating whether their alliance can last long enough to claim the fortune, while Angel Eyes (The Bad) relentlessly pursues the same prize.",
+      "Break into Two": "They agree to work together, beginning a treacherous journey through the violent landscape, entering the unpredictable 'world' of the treasure hunt during the Civil War.",
+      "B Story": "The brutal backdrop of the Civil War, highlighting the cruelty and futility surrounding the characters, adding depth and stakes beyond their personal greed.",
+      "Fun and Games": "A tense and darkly comic series of encounters, double-crosses, and gunfights as the trio maneuvers through battlefields, deserts, and towns, each chasing their own agenda.",
+      "Midpoint": "The discovery of the cemetery where the gold is buried, but the exact location remains unknown, intensifying the stakes and shifting alliances into deadly competition.",
+      "Bad Guys Close In": "Angel Eyes captures Tuco and tortures him for information, forcing Blondie to rescue him and escalating the conflict to a deadly showdown.",
+      "All Is Lost": "Tuco is betrayed and left for dead; Blondie is alone and seemingly defeated, the gold slipping further out of reach as trust collapses.",
+      "Dark Night of the Soul": "Blondie contemplates the cost of greed and survival amidst the desolation, questioning if the pursuit is worth the sacrifice in a world devoid of honor.",
+      "Break into Three": "Tuco and Blondie reunite for a final, strategic confrontation with Angel Eyes at the cemetery, embracing their uneasy alliance for one last gamble.",
+      "Finale": "In the iconic three-way standoff, Blondie outsmarts Angel Eyes and Tuco, claiming the gold but leaving Tuco alive, balancing justice with a flicker of humanity.",
+      "Final Image": "Blondie and Tuco part ways, the desert sun setting on their fractured partnership—symbolizing survival and the ambiguous morality of their world."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Blondie navigates the harsh frontier as a lone bounty hunter, living by his own code in a lawless, war-torn land.",
+      "Call to Adventure": "The revelation of the buried Confederate gold propels Blondie into a perilous quest, forcing him into uneasy alliances.",
+      "Trials": "Blondie faces betrayals, brutal combat, and moral ambiguity, testing his wit and resolve while journeying through the violent wilderness alongside Tuco and pursued by Angel Eyes.",
+      "Ordeal": "The climactic three-way duel at the cemetery, where Blondie confronts both his rivals and the ultimate test of cunning and courage.",
+      "Return": "Blondie emerges victorious but changed—wealthy yet aware of the price paid, he walks away alone, embodying the complex nature of survival in a fractured world."
+    },
+    "Story Circle": {
+      "You": "Blondie, a pragmatic bounty hunter surviving in the merciless chaos of the Civil War American West.",
+      "Need": "A hidden fortune of gold that promises freedom, power, and the means to escape a life of constant danger.",
+      "Go": "Blondie partners with Tuco, embarking on a treacherous journey through battlefields and deserts to locate the treasure.",
+      "Search": "They navigate shifting loyalties, deadly enemies, and moral dilemmas, each step testing their trust and survival instincts.",
+      "Find": "The buried gold is located, but the true challenge lies in outwitting Angel Eyes and each other to claim it.",
+      "Take": "In a tense standoff, Blondie risks everything, using strategic cunning to seize control of the gold and his fate.",
+      "Return": "Blondie leaves the desert with the gold, his partnership with Tuco fractured but alive, returning to a world still mired in violence and uncertainty.",
+      "Change": "He has grown more hardened and pragmatic, embodying the ambiguous hero who thrives not through idealism but through calculated survival."
+    }
+  }
+}

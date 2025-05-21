@@ -1,0 +1,39 @@
+{
+  "title": "Your Name.",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Taki and Mitsuha live separate, ordinary lives: Taki in bustling Tokyo, Mitsuha in a tranquil rural town, highlighting their contrasting worlds.",
+      "Theme Stated": "Mitsuha’s grandmother hints at the power of connection and the thread of fate binding people together, suggesting that even strangers can impact each other’s lives.",
+      "Set-Up": "We see Taki’s busy urban lifestyle and Mitsuha’s yearning for escape from her small-town duties, establishing their personalities and desires.",
+      "Catalyst": "The mysterious body-swapping between Taki and Mitsuha begins, disrupting their daily routines and forcing them to live each other's lives.",
+      "Debate": "Both struggle to understand and control the swaps, questioning reality and their own identities while grappling with the consequences of their actions.",
+      "Break into Two": "They decide to communicate through notes and messages, intentionally influencing each other's lives, forming a tentative bond despite never meeting.",
+      "B Story": "The developing emotional connection and growing curiosity about one another, which deepens their desire to meet face-to-face.",
+      "Fun and Games": "Exploring each other’s worlds leads to humorous and heartfelt moments, as they navigate school, work, and social dynamics while inhabiting each other’s bodies.",
+      "Midpoint": "Taki attempts to meet Mitsuha in person, but she is mysteriously absent, revealing that time and fate have separated them more than anticipated — a poignant emotional twist.",
+      "Bad Guys Close In": "Taki uncovers the impending disaster of the comet striking Mitsuha’s town, increasing urgency and tension as he races against time to warn her and save lives.",
+      "All Is Lost": "Taki loses the ability to swap bodies, and memories of Mitsuha begin to fade, symbolizing the imminent loss of their connection and hope.",
+      "Dark Night of the Soul": "He grapples with despair and the fear of never finding Mitsuha again, confronting the fragility of memory and the pain of separation.",
+      "Break into Three": "Driven by an unexplainable bond, Taki and Mitsuha independently seek each other out, defying time and space to reunite and alter fate.",
+      "Finale": "They confront the comet’s disaster together, sharing their memories and feelings, culminating in a powerful moment of recognition and connection that transcends time.",
+      "Final Image": "Taki and Mitsuha meet on a staircase in Tokyo, finally calling each other by name, symbolizing the fulfillment of their journey and the enduring power of human connection."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Taki leads a typical life in Tokyo, juggling school and part-time work; Mitsuha lives in the countryside, feeling trapped by tradition and longing for the city.",
+      "Call to Adventure": "The surreal experience of swapping bodies disrupts their normal lives, inviting them into a mysterious shared existence.",
+      "Trials": "They learn to adapt to each other's environments, communicate through notes, and uncover details of each other's lives, building empathy and trust.",
+      "Ordeal": "Taki discovers the town’s impending destruction by a comet and the temporal gap separating them, forcing him into a desperate struggle to save Mitsuha and her community.",
+      "Return": "After overcoming obstacles, Taki and Mitsuha finally reunite in the present day, their memories restored, symbolizing hope and the transcendence of fate."
+    },
+    "Story Circle": {
+      "You": "Taki and Mitsuha, two young individuals living vastly different lives, unaware of each other’s existence.",
+      "Need": "Both yearn for connection and escape—Taki seeks meaning beyond city life, Mitsuha dreams of Tokyo’s excitement and freedom.",
+      "Go": "They begin swapping bodies, thrust into each other’s worlds without warning or control.",
+      "Search": "Through their body-swapping, they navigate unfamiliar lives, searching for understanding and a way to communicate.",
+      "Find": "They develop a deep emotional bond and uncover the truth about Mitsuha’s town’s fate and the time gap between them.",
+      "Take": "Taki risks everything to change the past and save Mitsuha’s town, defying time and memory to protect those he has come to care for.",
+      "Return": "Though memories fade, an unbreakable connection guides them back to each other in the present day.",
+      "Change": "They emerge transformed—no longer strangers but linked souls who have reshaped their destinies through love and perseverance."
+    }
+  }
+}

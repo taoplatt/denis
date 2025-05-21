@@ -26,11 +26,14 @@
       "Return": "Jack dies, but Rose survives. She honors his memory by living freely and fully, rejecting the social script she once followed. Her life becomes a tribute to their brief, transformative connection."
     },
     "Story Circle": {
-      "You": "Rose is a privileged young woman shackled by societal expectations. Jack is a rootless artist, living freely but without deeper personal stakes.",
-      "Need": "Both yearn for something more — Rose seeks identity and autonomy, while Jack desires meaningful connection.",
-      "Go": "Their worlds collide on the Titanic, igniting a romance that challenges their beliefs about life, love, and self-worth.",
-      "Find": "In each other, they find courage, vulnerability, and clarity. Rose learns to see herself outside the confines of her class and family.",
-      "Return": "Though Jack dies, Rose emerges reborn. She lives the kind of life Jack would have — one of risk, joy, and self-definition."
+      "You": "Rose is a privileged young woman, bound by societal expectations and facing a life of repression and conformity.",
+      "Need": "She desires escape and authenticity, but truly needs the courage to define her own identity and make her own choices.",
+      "Go": "Rose meets Jack and is pulled into a passionate, chaotic world that defies her upbringing and social class.",
+      "Search": "She explores life beyond status and wealth — dancing in steerage, expressing herself freely, and falling in love.",
+      "Find": "Through Jack, Rose discovers her own voice and sense of self-worth, realizing she doesn’t have to live by others' rules.",
+      "Take": "She risks her social standing and personal safety. Jack is arrested, the ship is sinking, and death looms over them both.",
+      "Return": "Rose survives, clinging to the lessons Jack gave her. She tells her name to rescuers as 'Rose Dawson,' affirming her transformation.",
+      "Change": "She lives a full, independent life — flying planes, riding horses, and living freely — fulfilling the promise of her rebirth."
     }
   }
 }

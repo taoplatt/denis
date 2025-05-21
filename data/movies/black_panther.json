@@ -28,9 +28,12 @@
     "Story Circle": {
       "You": "T’Challa is a grieving son and newly crowned king, grounded in tradition and loyalty to his ancestors.",
       "Need": "He must learn to question the past, redefine strength, and open his heart to a more inclusive vision of leadership.",
-      "Go": "He pursues Klaue and later faces Killmonger, confronting the cracks in Wakanda’s identity and his own beliefs.",
-      "Find": "He discovers that greatness requires more than heritage — it requires moral clarity, sacrifice, and global responsibility.",
-      "Return": "T’Challa transforms Wakanda’s path and his own legacy, revealing a new model of kingship rooted in empathy and justice."
+      "Go": "He pursues Klaue and later confronts Killmonger, stepping into a morally complex world that challenges his inherited beliefs.",
+      "Search": "He begins to see the fractures in Wakanda’s isolationism and the ideological conflict brewing beneath the surface.",
+      "Find": "He discovers that true leadership involves compassion, vision, and a willingness to break from the past.",
+      "Take": "T’Challa is defeated and nearly killed by Killmonger. He must reckon with personal failure and the high cost of inaction.",
+      "Return": "He regains his strength and returns to reclaim Wakanda — not just physically, but philosophically.",
+      "Change": "T’Challa opens Wakanda to the world, choosing a path of responsibility, empathy, and global engagement over secrecy and tradition."
     }
   }
 }

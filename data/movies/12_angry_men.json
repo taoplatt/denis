@@ -1,0 +1,39 @@
+{
+  "title": "12 Angry Men",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "The oppressive, claustrophobic jury room filled with twelve men, preparing to deliberate a seemingly open-and-shut murder case.",
+      "Theme Stated": "Justice demands careful scrutiny beyond prejudice and haste, as Juror 8 quietly insists on examining the facts thoroughly.",
+      "Set-Up": "The jurors are introduced with their diverse personalities and biases, setting the stage for conflict as they prepare to decide the boy's fate.",
+      "Catalyst": "Juror 8 votes 'not guilty,' breaking the unanimous guilty vote and forcing the group to reconsider the evidence.",
+      "Debate": "The jurors argue heatedly, confronting personal biases, unreliable testimonies, and the weight of their decision.",
+      "Break into Two": "Juror 8 begins to dismantle the prosecution's case piece by piece, challenging the certainty of guilt and shifting the group's dynamics.",
+      "B Story": "The tension among the jurors reveals deeper social prejudices, personal insecurities, and the struggle between empathy and cynicism.",
+      "Fun and Games": "The jurors reenact and analyze critical moments of the trial, testing alibis and evidence, with shifting alliances and surges of doubt.",
+      "Midpoint": "A key piece of evidence—the uniqueness of the murder weapon—is disproven, turning the jury’s perspective and escalating the stakes emotionally.",
+      "Bad Guys Close In": "Pressure mounts as stubborn jurors cling to their verdicts, and tempers flare, threatening to derail honest deliberation.",
+      "All Is Lost": "Juror 3's personal anger boils over, revealing his bias, and a final vote seems impossible as the group fractures emotionally.",
+      "Dark Night of the Soul": "Juror 8 reflects on the heavy responsibility of justice and the cost of prejudice, standing almost alone in his resolve.",
+      "Break into Three": "The remaining holdouts begin to concede, influenced by reason and empathy, preparing for a unanimous decision.",
+      "Finale": "The jury reaches consensus, not out of conformity but through rigorous debate, self-examination, and moral courage.",
+      "Final Image": "The jurors leave the room changed men, a quiet testament to reason and justice prevailing over bias and haste."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Twelve jurors enter the deliberation room, each with their own backgrounds and biases, ready to deliver a quick guilty verdict.",
+      "Call to Adventure": "Juror 8 challenges the verdict, calling for a thorough re-examination of the evidence and the boy’s guilt.",
+      "Trials": "Through intense debate, reenactments, and personal confrontations, Juror 8 faces resistance, prejudice, and doubt from the other jurors.",
+      "Ordeal": "The breaking point comes as Juror 3’s personal pain and anger surface, threatening to destroy the chance at justice and unity.",
+      "Return": "With the final unanimous 'not guilty' verdict, the jurors emerge transformed—more aware of their own flaws and the meaning of true justice."
+    },
+    "Story Circle": {
+      "You": "A diverse jury tasked with deciding the fate of a young boy accused of murder.",
+      "Need": "They need to arrive at a just verdict, free from personal bias and haste.",
+      "Go": "Juror 8 insists on re-examining the evidence, initiating deeper deliberation.",
+      "Search": "The jurors scrutinize testimonies, challenge assumptions, and confront hidden prejudices.",
+      "Find": "They discover flaws in the evidence and in their own judgments.",
+      "Take": "Juror 3’s emotional outburst exposes the personal stakes clouding impartiality.",
+      "Return": "The jury reaches a unanimous verdict of 'not guilty,' having transcended their biases.",
+      "Change": "The men leave the room profoundly changed, embracing fairness, empathy, and the heavy burden of justice."
+    }
+  }
+}

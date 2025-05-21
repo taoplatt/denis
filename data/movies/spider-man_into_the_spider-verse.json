@@ -27,10 +27,13 @@
     },
     "Story Circle": {
       "You": "Miles is a bright, self-doubting teen caught between expectation and self-expression.",
-      "Need": "He must learn to trust himself and embrace his unique path to heroism.",
-      "Go": "Thrust into a multiversal crisis, he meets alternate versions of Spider-Man and is drawn into a life-or-death mission.",
-      "Find": "He uncovers his strength, confronts loss, and redefines what it means to be a hero.",
-      "Return": "Miles becomes his own Spider-Man — not by copying others, but by honoring his own voice and values."
+      "Need": "He yearns to live up to the Spider-Man legacy, but needs to believe in himself and embrace his own version of heroism.",
+      "Go": "After a spider bite and witnessing Peter Parker’s death, he’s pulled into a multiverse mission with alternate Spider-heroes.",
+      "Search": "He trains awkwardly, faces skepticism, and struggles to control his powers while navigating grief and pressure.",
+      "Find": "Through personal loss and hard-earned insight, he discovers his strength and what makes him unique.",
+      "Take": "He loses his uncle and is rejected by the team, forcing him to stand alone and confront his deepest fears.",
+      "Return": "Miles creates his own suit, refines his abilities, and joins the final battle with full confidence.",
+      "Change": "He emerges as a true Spider-Man — grounded in self-belief, compassion, and a distinct sense of identity."
     }
   }
 }

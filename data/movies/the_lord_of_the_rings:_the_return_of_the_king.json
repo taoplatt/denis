@@ -1,0 +1,39 @@
+{
+  "title": "The Lord of the Rings: The Return of the King",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "The shattered peace of Middle-earth after the War of the Ring begins, with scenes of despair and looming darkness as Sauron's power grows.",
+      "Theme Stated": "Frodo’s burden and the fate of Middle-earth hinge on courage, sacrifice, and hope in the face of overwhelming evil.",
+      "Set-Up": "Frodo and Sam continue their perilous journey toward Mount Doom, while Aragorn, Gandalf, and the remaining allies rally forces to confront Sauron’s armies.",
+      "Catalyst": "The Witch-king’s assault on Minas Tirith signals the full-scale war; the stakes escalate from a personal quest to a grand battle for the world's survival.",
+      "Debate": "Frodo struggles with the weight of the Ring and his own faltering will; Aragorn doubts his readiness to claim the throne and lead the armies of the West.",
+      "Break into Two": "Frodo and Sam push forward into Mordor, while Aragorn takes the Paths of the Dead to gather reinforcements, committing fully to their respective destinies.",
+      "B Story": "The deepening bond between Sam and Frodo, highlighting loyalty, friendship, and the human spirit’s power amidst darkness.",
+      "Fun and Games": "Epic battles unfold — the defense of Minas Tirith, the charge of the Rohirrim, and the eerie summoning of the Army of the Dead — blending hope and despair.",
+      "Midpoint": "Frodo is captured by Orcs in Cirith Ungol, and Aragorn arrives with reinforcements; the quest seems both closest and most perilous to success.",
+      "Bad Guys Close In": "Sauron’s forces tighten their grip; Frodo’s endurance wanes as Gollum’s betrayal and the Ring’s corruption threaten to undo everything.",
+      "All Is Lost": "Frodo succumbs to the Ring’s power at Mount Doom, claiming it for himself, while all hope appears lost on the battlefield and in the quest.",
+      "Dark Night of the Soul": "Sam’s unwavering hope drives him to rescue Frodo, reminding both of the strength found in love and perseverance against despair.",
+      "Break into Three": "Reinvigorated, Frodo and Sam confront their final challenge; simultaneously, Aragorn leads the Last Alliance to distract Sauron and enable the quest’s success.",
+      "Finale": "The Ring is destroyed in a moment of ultimate sacrifice; Sauron falls, his armies collapse, and peace begins to return to Middle-earth.",
+      "Final Image": "Frodo and his companions sail into the West, carrying the scars and wisdom of their journey, as Middle-earth stands free but forever changed."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "The Fellowship is broken; Frodo and Sam trek through the harsh and desolate landscape of Mordor, burdened by the Ring’s growing influence.",
+      "Call to Adventure": "The urgent need to destroy the One Ring before Sauron conquers all of Middle-earth demands courage and sacrifice beyond measure.",
+      "Trials": "Encounters with Shelob, Orcs, the siege of Minas Tirith, Aragorn’s summoning of the Dead Men, and internal struggles test the heroes’ resolve and unity.",
+      "Ordeal": "Frodo’s moment of surrender to the Ring at Mount Doom represents the ultimate personal crisis, confronting the seductive power of evil itself.",
+      "Return": "With the Ring destroyed, the heroes return to a changed world; Frodo and his friends face the bittersweet aftermath of victory and the cost of their journey."
+    },
+    "Story Circle": {
+      "You": "Frodo, an unassuming hobbit, carrying the heavy burden of the One Ring.",
+      "Need": "To destroy the Ring and save Middle-earth from Sauron’s tyranny.",
+      "Go": "Frodo and Sam venture deeper into the perilous lands of Mordor, while Aragorn embraces his destiny as king.",
+      "Search": "They face relentless enemies, inner doubts, and the corrupting influence of the Ring as they inch closer to Mount Doom.",
+      "Find": "Frodo reaches the heart of Mount Doom but is overwhelmed by the Ring’s power, claiming it for himself instead of destroying it.",
+      "Take": "Sam rescues Frodo, reminding him of their mission and renewing his will to sacrifice for the greater good.",
+      "Return": "The Ring is destroyed, Sauron defeated; the heroes return to a world free of darkness but forever marked by their trials.",
+      "Change": "Frodo and his companions are transformed — bearing physical and emotional scars — ultimately choosing to leave Middle-earth to find peace beyond."
+    }
+  }
+}

@@ -27,10 +27,13 @@
     },
     "Story Circle": {
       "You": "Michael is a noble outsider — loyal to family but detached from its business and brutality.",
-      "Need": "He must reconcile personal morality with inherited power and decide what kind of leader he will become.",
-      "Go": "He enters the Mafia world after the attack on his father, believing he can navigate it cleanly.",
-      "Find": "The cost of power becomes clear — violence, loss, and emotional distance reshape him.",
-      "Return": "Michael becomes the Godfather — powerful but spiritually isolated, embodying the very legacy he resisted."
+      "Need": "He desires to protect his father and uphold justice, but needs to confront the cost of power and what it means to lead.",
+      "Go": "He enters the Mafia world after the attack on his father, killing Sollozzo and McCluskey, and fleeing to Sicily.",
+      "Search": "While in exile, Michael experiences love, loss, and the slow erosion of his former identity as a moral civilian.",
+      "Find": "He returns home and begins reshaping the family's power structure, growing colder and more strategic.",
+      "Take": "He loses his father, orders executions, and sacrifices personal relationships to cement control.",
+      "Return": "Michael takes his father’s place and settles all family debts through violence and manipulation.",
+      "Change": "Michael is fully transformed into the Godfather — feared, isolated, and morally unrecognizable from the man he was."
     }
   }
 }

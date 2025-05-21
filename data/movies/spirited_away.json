@@ -1,0 +1,39 @@
+{
+  "title": "Spirited Away",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Chihiro and her parents drive to their new home, the world feels mundane and uncertain, reflecting Chihiro's fear and reluctance about change.",
+      "Theme Stated": "Chihiro's parents transform into pigs, hinting at the dangers of greed and the necessity of courage and self-reliance in a strange world.",
+      "Set-Up": "Chihiro explores the abandoned amusement park with her parents, introducing her as a scared, dependent girl unfamiliar with the spirit world.",
+      "Catalyst": "Chihiro's parents eat the spirit food and turn into pigs, forcing Chihiro to confront the reality of this magical world alone.",
+      "Debate": "Chihiro hesitates to enter the bathhouse and work for Yubaba, wrestling with fear and the desire to save her parents and return home.",
+      "Break into Two": "Chihiro accepts a job at the bathhouse, stepping fully into the spirit world and beginning her transformation.",
+      "B Story": "Chihiro's friendship with Haku, who becomes her guide and protector, represents trust and connection amid chaos.",
+      "Fun and Games": "Chihiro navigates the strange bathhouse environment, meets spirits, learns to work hard, and starts to show bravery and resilience.",
+      "Midpoint": "Chihiro discovers Haku's true identity and the depth of Yubaba's power, raising the stakes and deepening her resolve.",
+      "Bad Guys Close In": "Yubaba tightens control, Chihiro faces threats from No-Face and the polluted river spirit, and the pressure to save her parents mounts.",
+      "All Is Lost": "Haku is injured and captured, and Chihiro feels overwhelmed, isolated, and unsure if she can succeed.",
+      "Dark Night of the Soul": "Chihiro contemplates her fears and doubts but finds strength in her memories and friendships, reaffirming her determination.",
+      "Break into Three": "Chihiro embarks on a daring mission to save Haku and break Yubaba's spell, fully embracing her courage and growth.",
+      "Finale": "Chihiro confronts Yubaba, passes the final test to free her parents, and helps restore balance, demonstrating maturity and selflessness.",
+      "Final Image": "Chihiro returns to the human world, transformed—confident, brave, and ready to face the future with newfound strength."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Chihiro leads an ordinary, sheltered life, reluctant to move to a new home, representing comfort and innocence.",
+      "Call to Adventure": "She stumbles into the spirit world after her parents are transformed, confronting the unknown.",
+      "Trials": "Chihiro faces numerous challenges: working in the bathhouse, dealing with spirits, resisting temptation, and uncovering secrets.",
+      "Ordeal": "She endures the loss of Haku’s guidance and must confront her deepest fears and doubts alone to save him and her parents.",
+      "Return": "Having grown courageous and self-reliant, Chihiro returns to the human world, changed and empowered."
+    },
+    "Story Circle": {
+      "You": "Chihiro, a fearful and dependent girl, is introduced in her ordinary world.",
+      "Need": "Forced to save her parents and survive in the spirit world, she must find courage and identity.",
+      "Go": "She enters the bathhouse, engaging with the magical and dangerous environment.",
+      "Search": "Chihiro learns to navigate this new world, making allies and confronting obstacles.",
+      "Find": "She discovers inner strength and uncovers Haku’s true nature and the stakes involved.",
+      "Take": "Chihiro takes responsibility, fighting to free Haku and her parents despite overwhelming odds.",
+      "Return": "She returns to the human world, bringing with her the wisdom and confidence gained from her journey.",
+      "Change": "Chihiro is transformed from a scared, passive girl into a brave, self-assured individual ready to face life’s challenges."
+    }
+  }
+}

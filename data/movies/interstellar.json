@@ -1,0 +1,39 @@
+{
+  "title": "Interstellar",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "A dusty, struggling Earth with Cooper harvesting crops, highlighting humanity's desperation and the fading hope for survival.",
+      "Theme Stated": "Murph’s declaration that 'We used to look up at the sky and wonder about our place in the stars,' setting the theme of human curiosity and survival beyond Earth.",
+      "Set-Up": "Introduction to Cooper’s life as a farmer and widowed father, his strained relationship with his children, and the mysterious gravitational anomalies hinting at a greater cosmic puzzle.",
+      "Catalyst": "Discovery of NASA’s secret base and Professor Brand’s plan to find a new habitable planet through a wormhole near Saturn.",
+      "Debate": "Cooper’s internal struggle between staying with his family or embarking on an uncertain mission that might save humanity but could mean never seeing his children again.",
+      "Break into Two": "Cooper decides to join the space mission, leaving Earth behind to enter the wormhole and seek a new home for mankind.",
+      "B Story": "The evolving relationship between Cooper and Murph, both across time and space, underpinning the emotional core of the story.",
+      "Fun and Games": "Exploration of alien planets, encountering breathtaking but dangerous environments, and the thrill and peril of space travel.",
+      "Midpoint": "The devastating time dilation on Miller’s planet results in the loss of decades on Earth, increasing the stakes and emotional weight of the mission.",
+      "Bad Guys Close In": "Cooper and the crew face sabotage, dwindling resources, and the betrayal of Dr. Mann, whose desperation threatens everyone’s survival.",
+      "All Is Lost": "The collapse of their mission plan after Mann’s deception, the death of a crew member, and Cooper's apparent sacrifice to save the others by detaching his craft.",
+      "Dark Night of the Soul": "Cooper enters the tesseract, a surreal, infinite library of time where he confronts his helplessness and desperation to communicate with Murph across dimensions.",
+      "Break into Three": "Using the tesseract, Cooper transmits crucial quantum data to Murph, enabling her to solve the gravity equation and save humanity.",
+      "Finale": "Murph applies the data, humanity begins evacuation efforts, and Cooper escapes to reunite with an elderly Murph, symbolizing hope and reunion.",
+      "Final Image": "Cooper stealing a spacecraft to journey beyond to find Brand, echoing humanity’s undying spirit of exploration and the personal quest for connection."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Cooper’s life as a former pilot turned farmer, struggling to maintain a semblance of normalcy on a dying Earth.",
+      "Call to Adventure": "NASA’s invitation to lead the expedition through the wormhole to find a new home for humanity.",
+      "Trials": "Navigating unknown planets, battling time dilation, coping with isolation, and confronting betrayal within the crew.",
+      "Ordeal": "The tesseract experience where Cooper transcends time to deliver vital information, facing the ultimate test of faith and sacrifice.",
+      "Return": "Cooper awakens in a future where Murph has saved humanity; he reunites with her and sets out to find Brand, beginning a new journey."
+    },
+    "Story Circle": {
+      "You": "Cooper, a skilled pilot and father, grounded on a damaged Earth, longing for meaning and connection.",
+      "Need": "To save humanity and reconnect with his family by venturing beyond Earth’s confines.",
+      "Go": "Accepting the mission to travel through the wormhole into unknown galaxies.",
+      "Search": "Exploring alien worlds, facing physical dangers, and emotional trials as time slips away from those he loves.",
+      "Find": "The realization of the tesseract where time is malleable and he can influence the past to save the future.",
+      "Take": "Sacrificing his own place in time to send critical data to Murph, risking eternal separation from his family.",
+      "Return": "Reunited with an aged Murph in a space station orbiting Earth, witnessing the fruits of their combined efforts.",
+      "Change": "Embraces hope and humanity’s boundless curiosity, setting off again to find Brand and continue the quest for survival and connection."
+    }
+  }
+}

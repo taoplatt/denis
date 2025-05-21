@@ -26,11 +26,14 @@
       "Return": "Having helped overthrow tyranny, Max departs quietly, no longer just a survivor but a man who chose to care."
     },
     "Story Circle": {
-      "You": "Max is a haunted survivor, closed off from the world, surviving moment to moment.",
-      "Need": "He needs to rediscover purpose and the capacity to trust and fight for others.",
-      "Go": "He becomes entangled in Furiosa’s mission and the Wives’ escape.",
-      "Find": "He bonds with them, offers his blood, and proposes a new course of action — one rooted in reclamation, not escape.",
-      "Return": "He helps liberate the Citadel and walks away, changed — a loner no longer defined solely by loss."
+      "You": "Max is a haunted survivor, emotionally closed off and driven solely by the instinct to survive.",
+      "Need": "He desires escape and freedom but needs human connection and a renewed sense of purpose.",
+      "Go": "He is captured by the War Boys and caught up in Furiosa’s daring escape with the Wives.",
+      "Search": "As they flee through the desert, Max struggles to assert control and stay detached but gradually grows more involved in their mission.",
+      "Find": "He bonds with Furiosa and the Wives, offering his blood to save Furiosa — a selfless act that signals change.",
+      "Take": "He pays with physical risk and emotional vulnerability, risking his life and reawakening painful memories.",
+      "Return": "Max helps reclaim the Citadel, choosing to fight not for survival but for justice and freedom.",
+      "Change": "Though he walks away again, Max is transformed — no longer a mere drifter but someone capable of empathy, trust, and sacrifice."
     }
   }
 }

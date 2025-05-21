@@ -1,0 +1,39 @@
+{
+  "title": "Schindler's List",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "A crowded, vibrant Kraków marketplace before the Nazi invasion, showing Oskar Schindler as a charismatic, opportunistic businessman.",
+      "Theme Stated": "Schindler’s morally ambiguous nature is hinted at during his first interactions with Nazi officials, suggesting the story will explore the boundaries of good and evil.",
+      "Set-Up": "Schindler arrives in Kraków, leveraging his charm to establish a factory using Jewish labor, presenting himself as a profiteer indifferent to the rising horrors around him.",
+      "Catalyst": "The liquidation of the Kraków ghetto and the brutal deportation of Jews shatter any illusions of safety, exposing the full extent of Nazi cruelty.",
+      "Debate": "Schindler grapples internally: should he remain a passive profiteer or become an active protector of his Jewish workers despite the risks?",
+      "Break into Two": "Schindler commits to saving his Jewish workers, starting to use his influence and resources to shield them from deportation and death.",
+      "B Story": "The relationship between Schindler and Itzhak Stern, his Jewish accountant, grows into a partnership rooted in mutual respect and shared purpose.",
+      "Fun and Games": "Schindler navigates the dangerous political landscape, manipulating Nazi officers and bureaucrats to secure the safety of his workers, showcasing his cunning and resolve.",
+      "Midpoint": "The establishment of Schindler’s new factory in Brünnlitz, where he successfully transfers his workers, marks a pivotal victory in his mission to save lives.",
+      "Bad Guys Close In": "The intensification of Nazi oppression, including the liquidation of Plaszow labor camp and the rise of Amon Göth’s tyranny, threaten to unravel Schindler’s efforts.",
+      "All Is Lost": "Schindler faces the collapse of his financial empire and the crushing reality that even his influence may not be enough to save all his workers.",
+      "Dark Night of the Soul": "In a moment of profound despair, Schindler breaks down, haunted by guilt for not doing more, realizing the human cost of his choices.",
+      "Break into Three": "Reinvigorated, Schindler uses his remaining wealth to bribe Nazi officials, securing the lives of over a thousand Jews, transforming from profiteer to savior.",
+      "Finale": "The war ends; Schindler’s workers are freed. He flees, burdened by the knowledge of lives lost despite his heroic efforts, underscoring the complexity of salvation amid horror.",
+      "Final Image": "Schindler’s Jewish survivors place stones on his grave, a silent testament to his legacy — a man who chose humanity in the darkest times."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Oskar Schindler, a charming and greedy businessman, arrives in Nazi-occupied Poland seeking profit amidst growing turmoil.",
+      "Call to Adventure": "Witnessing the inhumanity inflicted upon Jews, Schindler is confronted with the moral imperative to act beyond self-interest.",
+      "Trials": "Schindler faces bureaucratic obstacles, Nazi brutality, and personal risk as he maneuvers to protect his Jewish workers from deportation and death.",
+      "Ordeal": "Confronted with the liquidation of the Kraków ghetto and the Plaszow camp’s horrors, Schindler confronts his own complicity and resolves to save as many lives as possible.",
+      "Return": "Having secured the safety of over a thousand Jews, Schindler emerges transformed, a flawed hero whose legacy is a testament to courage and conscience amidst atrocity."
+    },
+    "Story Circle": {
+      "You": "Oskar Schindler, a self-serving industrialist in Nazi-occupied Poland.",
+      "Need": "To survive and profit during wartime, but increasingly confronted by the need to protect innocent lives.",
+      "Go": "Schindler invests in a factory using Jewish labor, entering the dangerous world of Nazi politics and genocide.",
+      "Search": "He learns the brutal realities faced by Jews and struggles with his conscience to find a way to shield his workers.",
+      "Find": "Through cunning and courage, Schindler secures the transfer of his workers to a safe factory, defying Nazi orders.",
+      "Take": "He risks his fortune and freedom, bribing officials and manipulating the system to preserve lives at great personal cost.",
+      "Return": "With the war ending, Schindler’s saved workers are liberated, but he is haunted by those he could not save and his own moral reckoning.",
+      "Change": "From opportunist to humanitarian, Schindler’s journey reveals the capacity for redemption and the complexity of heroism amid darkness."
+    }
+  }
+}

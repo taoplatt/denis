@@ -27,10 +27,13 @@
     },
     "Story Circle": {
       "You": "Cobb is a brilliant extractor defined by loss, guilt, and a desire to return to his children.",
-      "Need": "He must forgive himself for Mal’s death and learn to live in the present rather than escape into memory.",
-      "Go": "He undertakes an inception job that forces him into the deepest layers of dream — and of his own psyche.",
-      "Find": "In limbo, he accepts his role in Mal’s demise and chooses to release her memory.",
-      "Return": "He completes the mission and returns to his children — no longer running, no longer dreaming."
+      "Need": "He must forgive himself for Mal’s death and confront his own subconscious fears to find peace.",
+      "Go": "He accepts Saito’s offer to perform inception, diving deep into layered dream worlds with a team of specialists.",
+      "Search": "Each dream layer challenges Cobb’s control and forces him to face manifestations of his guilt, especially Mal.",
+      "Find": "In limbo, he finally acknowledges his role in Mal’s death and that he must let her go to move forward.",
+      "Take": "Letting go of Mal is emotionally excruciating and risky — it means releasing the very dream that’s kept him close to her.",
+      "Return": "He completes the inception, wakes up on the plane, and returns to the U.S. to see his children.",
+      "Change": "Cobb is no longer consumed by guilt or trapped in dreams. He chooses the present, whatever its reality."
     }
   }
 }

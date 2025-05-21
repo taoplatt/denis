@@ -27,10 +27,13 @@
     },
     "Story Circle": {
       "You": "Frodo is an ordinary hobbit — cautious, kind, and unaware of the scale of evil in the world.",
-      "Need": "He must rise to an impossible challenge and learn to carry unbearable weight without losing himself.",
-      "Go": "Leaving the Shire, he ventures into a world of danger, magic, and moral peril.",
-      "Find": "Frodo faces death, betrayal, and the lure of power. He sees how the Ring corrupts even the noble.",
-      "Return": "He leaves the Fellowship behind, stepping into darkness with Sam — not yet victorious, but firmly on the hero’s path."
+      "Need": "He longs for peace but must learn that real peace requires sacrifice, courage, and the will to resist corruption.",
+      "Go": "He leaves the Shire and enters a world filled with ancient evils, political divisions, and internal temptations.",
+      "Search": "He joins the Fellowship, learns to navigate danger and despair, and begins to understand the burden of the Ring.",
+      "Find": "Frodo sees the power of the Ring to corrupt, even among friends. He realizes his presence endangers those around him.",
+      "Take": "He chooses to break from the group. It's painful and isolating, but he accepts the burden of carrying the Ring alone.",
+      "Return": "Frodo sets off toward Mordor with Sam by his side, no longer naive but still resolved.",
+      "Change": "He is no longer just a hobbit from the Shire — he is a Ring-bearer, hardened by trial and committed to his quest, even at great cost."
     }
   }
 }

@@ -1,0 +1,39 @@
+{
+  "title": "The Dark Knight",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Gotham City at night, a dark and chaotic urban landscape, hinting at the fragile peace that Batman strives to maintain.",
+      "Theme Stated": "Commissioner Gordon warns, 'Some men just want to watch the world burn,' foreshadowing the moral chaos to come and the limits of order.",
+      "Set-Up": "Bruce Wayne balances his dual life as Gotham's protector and a public figure, while the city enjoys a fragile calm after the fall of the mob.",
+      "Catalyst": "The Joker's audacious bank robbery signals the arrival of an unpredictable and anarchic force threatening Gotham's stability.",
+      "Debate": "Batman, Gordon, and Harvey Dent grapple with how to handle the Joker’s escalating terror without losing their own moral compass.",
+      "Break into Two": "Batman decides to confront the Joker directly, stepping into a darker, more chaotic world where rules no longer apply.",
+      "B Story": "The evolving relationship between Bruce Wayne and Rachel Dawes, intertwined with Harvey Dent's rise, brings personal stakes and hope amidst chaos.",
+      "Fun and Games": "The Joker's theatrical crimes unsettle Gotham—hospital explosions, bank heists, and public challenges that test Batman’s limits.",
+      "Midpoint": "Harvey Dent is disfigured and broken after a deadly attack, shattering the city's symbol of hope and altering the course of the battle.",
+      "Bad Guys Close In": "The Joker manipulates Gotham’s underworld and citizens, turning allies against each other and pushing Batman into moral compromises.",
+      "All Is Lost": "Rachel dies in an explosion intended for Harvey, and Dent crosses into moral darkness as Two-Face, undermining Batman's mission.",
+      "Dark Night of the Soul": "Bruce questions his purpose and methods, feeling the weight of loss and the city’s descent into chaos and vigilantism.",
+      "Break into Three": "Batman decides to take responsibility for Dent’s crimes, protecting his legacy and the fragile hope he represents for Gotham.",
+      "Finale": "A tense climax with Batman confronting Two-Face, saving hostages, and making the ultimate sacrifice by becoming the city’s scapegoat.",
+      "Final Image": "Batman disappears into the shadows, a dark knight burdened with the city’s sins but determined to fight for its soul."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Bruce Wayne lives as Gotham’s wealthy playboy, secretly donning the Batman mantle to protect the city from crime.",
+      "Call to Adventure": "The Joker emerges as a new kind of villain, challenging Batman’s sense of justice with chaotic and personal attacks.",
+      "Trials": "Batman faces moral dilemmas, physical threats, the Joker’s mind games, and the corruption within Gotham’s institutions.",
+      "Ordeal": "The death of Rachel and Harvey Dent’s transformation into Two-Face forces Batman to confront the cost of his crusade.",
+      "Return": "Batman embraces the role of outcast, taking the blame for Two-Face’s actions to preserve Gotham’s hope and inspire true justice."
+    },
+    "Story Circle": {
+      "You": "Bruce Wayne, a man torn between his dual identities, committed to saving Gotham from its darkness.",
+      "Need": "He needs to protect the city not just from crime, but from chaos and moral decay embodied by the Joker.",
+      "Go": "Batman steps deeper into the Joker’s world, accepting the unpredictable and dangerous game he’s forced to play.",
+      "Search": "He searches for ways to stop the Joker, protect his allies, and prevent Gotham’s collapse into anarchy.",
+      "Find": "Batman finds that traditional heroism is not enough; he must make painful sacrifices and embrace darkness himself.",
+      "Take": "He takes the blame for Two-Face’s crimes, sacrificing his reputation to preserve the idea of hope and justice for Gotham.",
+      "Return": "Batman returns to the shadows, becoming a symbol feared and misunderstood but necessary for the city’s survival.",
+      "Change": "He transforms from a celebrated hero into a dark guardian, accepting that true heroism sometimes requires bearing the weight of the world’s sins."
+    }
+  }
+}

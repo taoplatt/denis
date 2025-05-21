@@ -1,0 +1,39 @@
+{
+  "title": "The Godfather Part II",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Young Vito Corleone as a boy in Sicily, witnessing the murder of his family, setting the tone of loss and survival.",
+      "Theme Stated": "The voiceover of Vito's early life and Michael’s assertion that family and power come at a great cost.",
+      "Set-Up": "Michael Corleone consolidates his power in 1958 New York, showing his cold, ruthless control over the family business while tensions rise with his wife and brother.",
+      "Catalyst": "Michael's brother Fredo’s betrayal and the impending Senate investigation threaten the Corleone empire.",
+      "Debate": "Michael wrestles with trust and loyalty — can family be trusted? He contemplates the cost of his decisions on his soul and relationships.",
+      "Break into Two": "Michael chooses to fight back aggressively, moving from defensive to offensive by ordering hits and asserting dominance to protect the family legacy.",
+      "B Story": "The parallel story of young Vito’s rise from immigrant to crime boss, illustrating the origins of the family's power and values.",
+      "Fun and Games": "Vito’s clever, strategic rise in Little Italy, building alliances, and outsmarting enemies, contrasted with Michael’s calculated but cold maneuvers in the present day.",
+      "Midpoint": "Michael’s wife Kay confronts him about his criminal life and lies, resulting in her abortion and their estrangement. The stakes are deeply personal now.",
+      "Bad Guys Close In": "Michael faces betrayal within his family, government pressure, and enemies closing in; paranoia and isolation increase.",
+      "All Is Lost": "Fredo’s betrayal is confirmed, Kay leaves Michael, and the family’s unity fractures irreparably.",
+      "Dark Night of the Soul": "Michael is alone in the compound, reflecting on the cost of power, love lost, and whether the empire is worth the personal devastation.",
+      "Break into Three": "Michael resolves to eliminate all threats, including his own brother, to secure the family's future — embracing ruthless finality.",
+      "Finale": "The execution of Michael’s enemies and Fredo, solidifying his absolute but hollow victory; the cleansing of the family’s enemies at a great emotional cost.",
+      "Final Image": "Michael alone in the darkened Corleone compound, a king isolated on his throne, embodying the tragic cost of power and betrayal."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Michael Corleone as a powerful but conflicted mafia don struggling to legitimize his empire while maintaining control.",
+      "Call to Adventure": "The Senate investigation and internal betrayals threaten Michael’s empire, forcing him into action.",
+      "Trials": "Michael navigates political corruption, assassination attempts, and family betrayals, confronting his own paranoia and moral decay.",
+      "Ordeal": "Michael confronts Fredo’s betrayal and his wife’s disillusionment, leading to profound personal and familial crisis.",
+      "Return": "Michael emerges victorious in securing his power but at the cost of his soul and family, isolated and hardened."
+    },
+    "Story Circle": {
+      "You": "Michael Corleone, powerful mafia boss seeking to protect and expand his family's empire.",
+      "Need": "He needs to secure his family's future against external threats and internal betrayal.",
+      "Go": "Michael takes aggressive action against enemies and suspected traitors, delving deeper into violence and mistrust.",
+      "Search": "He investigates betrayals, navigates political danger, and wrestles with his own conscience and loneliness.",
+      "Find": "Michael discovers the full extent of Fredo’s betrayal and the cost of his choices in his fractured family.",
+      "Take": "He decides to sacrifice family ties, ordering Fredo’s death to protect the empire.",
+      "Return": "Michael returns to his position of power, but now isolated, feared, and emotionally broken.",
+      "Change": "He transforms from a conflicted leader seeking legitimacy into a ruthless, solitary figure embodying the tragic cost of power."
+    }
+  }
+}

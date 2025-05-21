@@ -26,11 +26,14 @@
       "Return": "Armed with this knowledge, Louise prevents a global crisis and makes the profound choice to live out a future filled with both love and inevitable loss."
     },
     "Story Circle": {
-      "You": "Louise is isolated, grieving, and emotionally closed off, living a subdued life shaped by personal loss.",
-      "Need": "She longs for connection, purpose, and healing — though she may not fully realize it yet.",
-      "Go": "Louise agrees to help decode the alien language, embarking on a transformative journey into the unknown.",
-      "Find": "Through the process of learning the Heptapods’ language, she discovers that time is not linear, and her 'memories' are in fact glimpses of what's to come.",
-      "Return": "With this new perspective, Louise embraces a future she knows will include profound pain — choosing love and life despite knowing the ending."
+      "You": "Louise is isolated and emotionally closed off, living a quiet life as a linguistics professor after the death of her daughter. She's in a world of order but steeped in grief.",
+      "Need": "She is compelled into action when alien ships arrive and the military seeks her help to communicate. She desires understanding, connection, and possibly healing.",
+      "Go": "Louise accepts the mission and enters the unknown world of the alien ship and its cryptic language, leaving behind her old life.",
+      "Search": "She works closely with Ian and the Heptapods, trying to understand their symbols and language. She begins having vivid visions she cannot explain.",
+      "Find": "Louise discovers that the Heptapod language changes her perception of time — her visions are not memories, but glimpses of the future.",
+      "Take": "She fully embraces this nonlinear perception, knowing it includes future pain — specifically, the birth and eventual death of her daughter.",
+      "Return": "Louise returns to the world with this new awareness and uses it to prevent a global war, making peace possible.",
+      "Change": "Transformed by her journey, Louise chooses to live fully — embracing both love and loss — with a deep understanding of the nature of time and existence."
     }
   }
 }

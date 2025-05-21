@@ -1,0 +1,39 @@
+{
+  "title": "GoodFellas",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Young Henry Hill gazes with wide-eyed admiration at the glamorous life of the local gangsters in his Brooklyn neighborhood, setting the tone of allure and ambition.",
+      "Theme Stated": "Tommy warns Henry and Jimmy that 'As far back as I can remember, I always wanted to be a gangster,' establishing the seductive but dangerous pursuit of power and belonging.",
+      "Set-Up": "Henry’s teenage years unfold as he ingratiates himself with the wise guys, learning the rules of the Mafia world while balancing family and loyalty.",
+      "Catalyst": "Henry is formally inducted into the Mafia's inner circle after proving his loyalty during a risky hijacking operation, marking his entry into the criminal underworld.",
+      "Debate": "Henry grapples with the moral compromises and escalating violence that come with his newfound status, questioning if the lifestyle’s rewards outweigh the costs.",
+      "Break into Two": "Fully embraced by the mob, Henry, Jimmy, and Tommy escalate their criminal exploits, diving headfirst into a world of fast money, power, and recklessness.",
+      "B Story": "Henry’s romantic relationship with Karen evolves from innocent attraction to a complex partnership intertwined with crime, loyalty, and eventual disillusionment.",
+      "Fun and Games": "The trio enjoys the high life: lavish parties, exotic cars, and luxury, highlighting the intoxicating allure and camaraderie of mob culture.",
+      "Midpoint": "The Lufthansa heist delivers a massive windfall, a high point filled with triumph but also planting seeds of paranoia and betrayal.",
+      "Bad Guys Close In": "Tensions rise as mistrust grows within the crew; Tommy's unpredictable violence and the law’s increasing scrutiny threaten to unravel their empire.",
+      "All Is Lost": "Tommy's brutal murder shatters the gang’s unity; Henry’s world crumbles as his closest allies are killed or arrested, signaling impending doom.",
+      "Dark Night of the Soul": "Facing indictments and paranoia, Henry feels isolated and trapped, questioning the choices that led to his downfall and fearing for his life.",
+      "Break into Three": "Henry makes the desperate decision to turn informant, choosing survival over loyalty in a final act of self-preservation.",
+      "Finale": "Henry testifies against his former partners, dismantling the mob network from within, but at the cost of losing his identity and freedom.",
+      "Final Image": "Henry, now in witness protection, reflects alone on his lost life, a stark contrast to the glamorous beginning, embodying the price of ambition and betrayal."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Henry Hill grows up in working-class Brooklyn, fascinated by the local mobsters’ power and charisma.",
+      "Call to Adventure": "He begins running errands for the gang, eager to prove himself and escape his modest background.",
+      "Trials": "Henry navigates the dangerous criminal underworld, learning the codes of loyalty, cunning, and violence alongside Jimmy and Tommy.",
+      "Ordeal": "The Lufthansa heist, a risky and lucrative operation, escalates tensions and paranoia, leading to betrayals and deadly consequences.",
+      "Return": "Betrayed and hunted, Henry turns informant, returning to a life of obscurity and loss, forever changed by his journey through crime."
+    },
+    "Story Circle": {
+      "You": "Henry Hill, an ambitious youth yearning for respect and power beyond his humble beginnings.",
+      "Need": "He needs to belong and rise within the Mafia to achieve status, wealth, and identity.",
+      "Go": "Henry commits fully to the mob lifestyle, engaging in increasingly risky and violent crimes.",
+      "Search": "He experiences the highs of wealth and camaraderie but also the dangers of betrayal and law enforcement pressure.",
+      "Find": "Henry gains the riches and power he desired but also discovers the fragility and volatility of his world.",
+      "Take": "Confronted with the threat of death and imprisonment, Henry chooses self-preservation by cooperating with the authorities.",
+      "Return": "Henry reenters society under protection, stripped of his past identity and severed from his former life.",
+      "Change": "He learns the heavy cost of ambition and betrayal, living with regret and the loss of his once-glamorous world."
+    }
+  }
+}

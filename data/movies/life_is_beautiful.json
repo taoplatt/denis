@@ -1,0 +1,39 @@
+{
+  "title": "Life Is Beautiful",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Guido, a joyful and imaginative young man, arrives in a picturesque Italian town, radiating optimism and charm.",
+      "Theme Stated": "Guido’s playful nature and his belief in finding joy even in hardship hint at the film’s core theme: love and hope can transform even the darkest realities.",
+      "Set-Up": "Guido pursues Dora, a schoolteacher, with humor and persistence, establishing his world of innocence, love, and simple happiness.",
+      "Catalyst": "Guido and Dora marry and have a son, Giosuè, creating a family unit just before the ominous rise of Fascism and the outbreak of World War II.",
+      "Debate": "The growing threat of war and anti-Semitic persecution forces Guido to confront how to protect his family and maintain hope amidst growing danger.",
+      "Break into Two": "Guido and his family are deported to a Nazi concentration camp, shifting the story from light-hearted romance to a harrowing survival tale.",
+      "B Story": "Guido’s relationship with his son becomes the emotional heart, as he uses humor and imagination to shield Giosuè from the horrors around them.",
+      "Fun and Games": "Within the camp, Guido transforms brutal reality into a fantastical game, convincing his son the camp is a contest with a grand prize, preserving innocence and hope.",
+      "Midpoint": "Guido’s efforts to protect Giosuè intensify, but the stakes become deadly real—hope flickers as the camp’s cruelty grows more apparent.",
+      "Bad Guys Close In": "The Nazis tighten control, and danger escalates; Guido faces increasing peril while maintaining his façade for his son’s sake.",
+      "All Is Lost": "Guido is separated from his wife and ultimately captured, appearing to be lost to the merciless machinery of the camp.",
+      "Dark Night of the Soul": "Alone and facing death, Guido’s love and hope are tested; yet his final acts demonstrate unwavering devotion to his son’s survival and joy.",
+      "Break into Three": "Guido’s final moments are spent continuing the game for Giosuè, embodying sacrifice and the triumph of spirit over despair.",
+      "Finale": "The camp is liberated, and Giosuè emerges alive, his innocence intact, holding onto the hope his father gave him.",
+      "Final Image": "Giosuè reunited with Dora, symbolizing survival, love, and the enduring power of hope in the face of unimaginable darkness."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Guido’s vibrant life in an Italian town, filled with laughter, love, and dreams.",
+      "Call to Adventure": "The rise of Fascism and the onset of war disrupt Guido’s peaceful existence.",
+      "Trials": "Guido’s arrest and deportation to the concentration camp, where he must navigate brutality while safeguarding his son’s innocence.",
+      "Ordeal": "Facing the horrors of the camp, Guido uses wit and imagination to transform suffering into a protective game for Giosuè.",
+      "Return": "Though Guido dies, his legacy of hope allows Giosuè to survive and return to a free world with his mother, carrying forward the spirit of resilience."
+    },
+    "Story Circle": {
+      "You": "Guido, a joyful and imaginative man, living a carefree life filled with love and humor.",
+      "Need": "To protect his family and preserve hope during the horrors of war and persecution.",
+      "Go": "Deported to a Nazi concentration camp with his wife and son, entering a world of unimaginable danger.",
+      "Search": "Guido navigates the camp’s cruelty, desperately shielding his son from its terrors through fantasy and play.",
+      "Find": "He finds strength in his love and creativity, turning their survival into a game to maintain innocence and hope.",
+      "Take": "Guido sacrifices everything, including his own life, to ensure his son’s safety and psychological survival.",
+      "Return": "Giosuè is liberated, returning to the world as a child who has been protected from trauma by his father’s love.",
+      "Change": "The family’s survival symbolizes the transformative power of hope, love, and imagination amidst the darkest human cruelty."
+    }
+  }
+}

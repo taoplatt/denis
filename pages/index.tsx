@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import { fetchPosterUrl } from "../utils/fetchPosterUrl";
 import React, { useState, useEffect, useRef } from "react";
 
 export default function Home() {
@@ -32,11 +33,21 @@ export default function Home() {
   useEffect(() => {
     fetch("/api/movies")
       .then((res) => res.json())
-      .then((movieList) => {
+      .then(async (movieList) => {
         const movies: Record<string, any> = {};
-        movieList.forEach(({ name, data }: { name: string; data: any }) => {
-          movies[name] = data;
-        });
+
+        for (const { name, data } of movieList) {
+          const readableName = name.replace(/_/g, " ");
+          const res = await fetch(
+            `/api/poster?name=${encodeURIComponent(readableName)}`
+          );
+          const { posterUrl } = await res.json();
+          movies[name] = {
+            ...data,
+            posterUrl: posterUrl || "/fallback.jpg",
+          };
+        }
+
         setMovieData(movies);
 
         requestAnimationFrame(() => {
@@ -71,7 +82,7 @@ export default function Home() {
   }, [selectedMovie, selectedFramework]);
 
   return (
-    <div className="min-h-screen bg-gray-100 text-gray-900">
+    <div className="min-h-screen flex flex-col bg-gray-100 text-gray-900">
       <Head>
         <title>Denis</title>
         <link rel="icon" href="/favicon.ico" />
@@ -103,7 +114,7 @@ export default function Home() {
         }}
         id="background-capture"
       >
-        <main className="max-w-4xl mx-auto px-4 space-y-12 pb-12">
+        <main className="flex-grow max-w-4xl mx-auto px-4 space-y-12 pb-12">
           {/* Step 1: Pick a Movie */}
           <section>
             <div className="flex items-center space-x-2 mb-4">
@@ -130,7 +141,7 @@ export default function Home() {
                 className="flex space-x-4 overflow-x-auto scroll-snap-x snap-x snap-mandatory px-1"
               >
                 {Object.keys(movieData).map((movie) => {
-                  const filename = "/images/" + movie.toLowerCase() + ".jpg";
+                  const filename = movieData[movie].posterUrl;
                   return (
                     <div
                       key={movie}
@@ -253,6 +264,15 @@ export default function Home() {
           )}
         </main>
       </div>
+      <footer className="mt-16 text-center text-xs text-gray-500 pb-6 px-4">
+        <div className="flex items-center justify-center space-x-2">
+          <Image src="/tmdb.svg" alt="TMDB logo" width={24} height={24} />
+          <span>
+            This website uses TMDB and the TMDB APIs but is not endorsed,
+            certified, or otherwise approved by TMDB.
+          </span>
+        </div>
+      </footer>
     </div>
   );
 }
