@@ -2,38 +2,38 @@
   "title": "Life Is Beautiful",
   "frameworks": {
     "Save the Cat": {
-      "Opening Image": "Guido, a joyful and imaginative young man, arrives in a picturesque Italian town, radiating optimism and charm.",
-      "Theme Stated": "Guido’s playful nature and his belief in finding joy even in hardship hint at the film’s core theme: love and hope can transform even the darkest realities.",
-      "Set-Up": "Guido pursues Dora, a schoolteacher, with humor and persistence, establishing his world of innocence, love, and simple happiness.",
-      "Catalyst": "Guido and Dora marry and have a son, Giosuè, creating a family unit just before the ominous rise of Fascism and the outbreak of World War II.",
-      "Debate": "The growing threat of war and anti-Semitic persecution forces Guido to confront how to protect his family and maintain hope amidst growing danger.",
-      "Break into Two": "Guido and his family are deported to a Nazi concentration camp, shifting the story from light-hearted romance to a harrowing survival tale.",
-      "B Story": "Guido’s relationship with his son becomes the emotional heart, as he uses humor and imagination to shield Giosuè from the horrors around them.",
-      "Fun and Games": "Within the camp, Guido transforms brutal reality into a fantastical game, convincing his son the camp is a contest with a grand prize, preserving innocence and hope.",
-      "Midpoint": "Guido’s efforts to protect Giosuè intensify, but the stakes become deadly real—hope flickers as the camp’s cruelty grows more apparent.",
-      "Bad Guys Close In": "The Nazis tighten control, and danger escalates; Guido faces increasing peril while maintaining his façade for his son’s sake.",
-      "All Is Lost": "Guido is separated from his wife and ultimately captured, appearing to be lost to the merciless machinery of the camp.",
-      "Dark Night of the Soul": "Alone and facing death, Guido’s love and hope are tested; yet his final acts demonstrate unwavering devotion to his son’s survival and joy.",
-      "Break into Three": "Guido’s final moments are spent continuing the game for Giosuè, embodying sacrifice and the triumph of spirit over despair.",
-      "Finale": "The camp is liberated, and Giosuè emerges alive, his innocence intact, holding onto the hope his father gave him.",
-      "Final Image": "Giosuè reunited with Dora, symbolizing survival, love, and the enduring power of hope in the face of unimaginable darkness."
+      "Opening Image": "Guido, a vibrant and optimistic young man, joyfully navigates life in pre-war Italy, full of humor and charm.",
+      "Theme Stated": "Life is beautiful despite its hardships – joy and love can transform even the darkest circumstances.",
+      "Set-Up": "Guido falls in love with Dora, they marry, and have a son, Giosuè, establishing a warm family bond amid the rising threat of fascism.",
+      "Catalyst": "Guido and his family are arrested and deported to a Nazi concentration camp.",
+      "Debate": "Guido struggles with how to protect his son from the horrors around them without shattering his innocence.",
+      "Break into Two": "Guido decides to shield Giosuè by turning the camp experience into an elaborate game where survival is the ultimate prize.",
+      "B Story": "The evolving relationship between Guido and his son, as Guido's love fuels his imagination to keep Giosuè hopeful.",
+      "Fun and Games": "Guido uses humor, playful lies, and creative storytelling to transform brutal camp life into a whimsical contest for Giosuè.",
+      "Midpoint": "The stakes heighten as the family faces increased danger, but Guido’s resolve strengthens; the ‘game’ becomes a lifeline.",
+      "Bad Guys Close In": "Conditions worsen, and the cruelty of the camp threatens to break both Guido’s spirit and Giosuè’s belief in the game.",
+      "All Is Lost": "Guido is taken away to be executed, seemingly dooming Giosuè and the hope he clings to.",
+      "Dark Night of the Soul": "Giosuè faces the terrifying reality alone, still trusting in the game and his father’s promise.",
+      "Break into Three": "Liberation arrives as Allied forces free the camp; Giosuè’s innocence and Guido’s love have sustained him.",
+      "Finale": "Giosuè reunites with his mother and glimpses his father one last time, carrying forward the enduring message of hope and love.",
+      "Final Image": "Giosuè, now safe, smiles genuinely, embodying the triumph of life’s beauty over unimaginable suffering."
     },
     "Hero’s Journey": {
-      "Ordinary World": "Guido’s vibrant life in an Italian town, filled with laughter, love, and dreams.",
-      "Call to Adventure": "The rise of Fascism and the onset of war disrupt Guido’s peaceful existence.",
-      "Trials": "Guido’s arrest and deportation to the concentration camp, where he must navigate brutality while safeguarding his son’s innocence.",
-      "Ordeal": "Facing the horrors of the camp, Guido uses wit and imagination to transform suffering into a protective game for Giosuè.",
-      "Return": "Though Guido dies, his legacy of hope allows Giosuè to survive and return to a free world with his mother, carrying forward the spirit of resilience."
+      "Ordinary World": "Guido lives a joyful, humorous life in Italy, filled with love and dreams before the war disrupts everything.",
+      "Call to Adventure": "The encroaching war and eventual deportation of Guido’s family to a concentration camp thrust them into a nightmare.",
+      "Trials": "In the camp, Guido faces brutality and despair but uses wit and imagination to protect his son from the horrors surrounding them.",
+      "Ordeal": "Guido’s ultimate sacrifice as he faces execution while ensuring his son’s safety and belief in the ‘game.’",
+      "Return": "Giosuè survives, reunited with his mother, forever changed but holding onto the hope his father instilled."
     },
     "Story Circle": {
-      "You": "Guido, a joyful and imaginative man, living a carefree life filled with love and humor.",
-      "Need": "To protect his family and preserve hope during the horrors of war and persecution.",
-      "Go": "Deported to a Nazi concentration camp with his wife and son, entering a world of unimaginable danger.",
-      "Search": "Guido navigates the camp’s cruelty, desperately shielding his son from its terrors through fantasy and play.",
-      "Find": "He finds strength in his love and creativity, turning their survival into a game to maintain innocence and hope.",
-      "Take": "Guido sacrifices everything, including his own life, to ensure his son’s safety and psychological survival.",
-      "Return": "Giosuè is liberated, returning to the world as a child who has been protected from trauma by his father’s love.",
-      "Change": "The family’s survival symbolizes the transformative power of hope, love, and imagination amidst the darkest human cruelty."
+      "You": "Guido, a witty and loving man, lives a carefree life full of joy and dreams.",
+      "Need": "He must protect his young son from the devastating realities of war and imprisonment.",
+      "Go": "Guido and his family are sent to a Nazi concentration camp, entering a world of fear and cruelty.",
+      "Search": "Guido invents a game to shield Giosuè from the horrors, maintaining innocence through imagination.",
+      "Find": "Through humor and love, Guido keeps his son’s hope alive even as their situation worsens.",
+      "Take": "Guido sacrifices himself to give Giosuè a chance at survival and a life beyond the camp.",
+      "Return": "The camp is liberated, and Giosuè is reunited with his mother, carrying his father’s legacy of hope.",
+      "Change": "Giosuè grows from innocence to resilience, embodying the profound truth that life, despite suffering, is beautiful."
     }
   }
 }

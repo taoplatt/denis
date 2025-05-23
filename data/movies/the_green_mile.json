@@ -2,38 +2,38 @@
   "title": "The Green Mile",
   "frameworks": {
     "Save the Cat": {
-      "Opening Image": "Paul Edgecomb, an elderly man, sits in a nursing home, reflecting on his past as a death row corrections officer.",
-      "Theme Stated": "The nature of justice, mercy, and the supernatural is questioned as Paul recalls the extraordinary events on the Green Mile.",
-      "Set-Up": "Paul's daily routine on death row is established, introducing key characters like John Coffey, the gentle giant with mysterious powers, and the complex dynamics among the guards and inmates.",
-      "Catalyst": "John Coffey is brought to the Mile, accused of a horrific crime, immediately setting suspicion and curiosity in motion.",
-      "Debate": "Paul and the guards grapple with Coffey’s innocence and the moral implications of their roles; they witness his healing abilities, challenging their beliefs.",
-      "Break into Two": "Paul decides to secretly investigate Coffey’s powers and innocence, stepping into an uncertain moral and supernatural world.",
-      "B Story": "The relationship between Paul and John Coffey deepens, highlighting themes of compassion, faith, and redemption.",
-      "Fun and Games": "Moments of awe and subtle miracles unfold as Coffey heals Paul’s urinary infection and resurrects Mr. Jingles, the mouse, bringing light into the grim environment.",
-      "Midpoint": "Paul fully believes in Coffey’s innocence and powers after Coffey heals Paul’s wife’s brain tumor, marking a point of no return.",
-      "Bad Guys Close In": "Percy Wetmore’s cruelty escalates, tensions rise, and the true evil embodied by the real murderer, William Wharton, threatens to destroy the fragile hope on the Mile.",
-      "All Is Lost": "Wharton kills Mr. Jingles and attacks the guards, leading to chaos, and Coffey’s fate seems sealed despite his innocence.",
-      "Dark Night of the Soul": "Paul wrestles with the injustice of executing a man who has done nothing wrong but wonders if mercy is possible within the system.",
-      "Break into Three": "Paul resolves to honor Coffey’s wish to ease his suffering, acknowledging the impossibility of changing the system but seeking personal redemption.",
-      "Finale": "Coffey willingly accepts execution, using his final moments to heal and provide peace, while Paul and the guards confront the moral weight of their actions.",
-      "Final Image": "Back in the nursing home, an aged Paul carries the burden of immortality and the memories of mercy and loss, forever changed by the Green Mile."
+      "Opening Image": "Paul Edgecomb, an elderly man in a nursing home, begins recounting his time as a death row corrections officer during the 1930s.",
+      "Theme Stated": "The nature of justice, mercy, and the miraculous power of empathy is introduced through Paul's reflections and the arrival of John Coffey.",
+      "Set-Up": "Paul and his team work on death row, called 'The Green Mile,' establishing the harsh realities of the prison and the prisoners' humanity.",
+      "Catalyst": "John Coffey, a physically imposing but gentle man convicted of a terrible crime, arrives on death row, sparking curiosity and unease.",
+      "Debate": "Paul and the guards wrestle with their initial judgments of Coffey, questioning his guilt and the justice system's infallibility.",
+      "Break into Two": "Paul discovers Coffey’s miraculous healing abilities, shifting the story from a procedural drama to a supernatural and moral journey.",
+      "B Story": "The relationship between Paul and Coffey deepens, highlighting themes of redemption, innocence, and the human capacity for good amidst cruelty.",
+      "Fun and Games": "Coffey performs miracles, healing Paul’s urinary infection and resurrecting Mr. Jingles, the mouse, creating moments of wonder and hope on death row.",
+      "Midpoint": "The revelation that Coffey is innocent and that the real murderer, Percy Wetmore, has been abusing his power flips the stakes and intensifies the moral dilemma.",
+      "Bad Guys Close In": "Percy’s cruelty escalates; the guards face increased tension and danger, and the weight of impending executions looms heavier.",
+      "All Is Lost": "Despite knowing the truth, the system's machinery moves forward; Coffey accepts his fate, embodying tragic innocence and sacrifice.",
+      "Dark Night of the Soul": "Paul grapples with helplessness and guilt, questioning the fairness of justice and his role in the inevitable execution.",
+      "Break into Three": "Paul and the guards resolve to honor Coffey’s dignity, preparing emotionally and physically for the final journey down the Green Mile.",
+      "Finale": "Coffey is executed, but not before bestowing a final gift of healing and peace; Paul is left to carry the burden of Coffey’s legacy.",
+      "Final Image": "An aged Paul reflects on the cost of mercy and the enduring impact of one miraculous man who changed his life forever."
     },
     "Hero’s Journey": {
-      "Ordinary World": "Paul Edgecomb is a seasoned death row supervisor, accustomed to routine and the harsh realities of justice.",
-      "Call to Adventure": "The arrival of John Coffey, a condemned man with miraculous healing powers, challenges Paul’s understanding of good and evil.",
-      "Trials": "Paul witnesses Coffey’s miracles, confronts the cruelty of fellow guards and inmates, and investigates the truth behind the crime Coffey is accused of.",
-      "Ordeal": "Paul faces the moral crisis of whether to allow Coffey’s execution despite knowing his innocence and supernatural gifts, struggling with his conscience and the law.",
-      "Return": "Paul carries the weight of his experiences into old age, forever changed by the lessons of mercy, justice, and humanity learned on the Green Mile."
+      "Ordinary World": "Paul Edgecomb works as a death row supervisor in a 1930s Louisiana prison, accustomed to the grim routine of executions.",
+      "Call to Adventure": "John Coffey arrives, a mysterious inmate whose gentle nature and supernatural abilities challenge Paul's perceptions.",
+      "Trials": "Paul navigates the complexities of Coffey’s innocence, the cruelty of fellow guards, and the moral ambiguity of justice.",
+      "Ordeal": "Faced with Coffey’s impending execution despite evidence of his innocence, Paul confronts the limits of his power and the system’s flaws.",
+      "Return": "Paul carries Coffey’s gift and story into old age, forever changed by the experience, embodying a deeper understanding of compassion."
     },
     "Story Circle": {
-      "You": "Paul Edgecomb, a pragmatic and experienced death row supervisor, living within the confines of the prison system.",
-      "Need": "To reconcile his duty with his growing doubts about justice and the humanity of the condemned, especially John Coffey.",
-      "Go": "Paul confronts the arrival of Coffey, stepping into a world where miracles challenge his beliefs.",
-      "Search": "He investigates Coffey’s powers and innocence, navigating prison politics, cruelty, and supernatural phenomena.",
-      "Find": "Paul discovers Coffey’s true nature as a healer and innocent man suffering unjustly.",
-      "Take": "He must accept the painful truth and the limitations of the system, deciding to honor Coffey’s final wishes.",
-      "Return": "Paul returns to his life, burdened with the memory and moral responsibility of the events on the Mile.",
-      "Change": "He is transformed by his experiences, carrying a profound empathy and sorrow that shapes his remaining years."
+      "You": "Paul Edgecomb, a seasoned death row officer, is grounded in law and order within a harsh prison environment.",
+      "Need": "He needs to reconcile the brutal realities of his job with his innate sense of justice and humanity.",
+      "Go": "John Coffey’s arrival disrupts the status quo, leading Paul to question everything he believes about guilt and punishment.",
+      "Search": "Paul investigates Coffey’s case and witnesses his supernatural healing, searching for truth beyond appearances.",
+      "Find": "He finds undeniable proof of Coffey’s innocence and goodness, along with the cruel corruption around him.",
+      "Take": "Paul must accept the painful reality that the system will still carry out the execution, bearing the emotional weight of this injustice.",
+      "Return": "He returns to his life changed, carrying Coffey’s legacy and the scars of his moral struggle into old age.",
+      "Change": "Paul transforms from a detached officer into a compassionate man who understands the complexity of justice, mercy, and humanity."
     }
   }
 }

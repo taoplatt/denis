@@ -2,38 +2,38 @@
   "title": "Parasite",
   "frameworks": {
     "Save the Cat": {
-      "Opening Image": "The Kim family’s cramped semi-basement apartment, highlighting their poverty and struggle to survive in modern Seoul.",
-      "Theme Stated": "Ki-woo’s sister, Ki-jung, remarks on the stark divide between social classes, hinting at the central theme of inequality and deception.",
-      "Set-Up": "The Kim family schemes to infiltrate the wealthy Park household by securing jobs as tutors and servants, showcasing their resourcefulness and desperation.",
-      "Catalyst": "Ki-woo receives the opportunity to tutor the Park’s daughter, opening the door to a new social world and beginning their infiltration.",
-      "Debate": "The Kims wrestle with the morality and risks of their deceit, questioning how far they can go without being exposed.",
-      "Break into Two": "The family systematically replaces the existing Park staff, embedding themselves deeper into the household and their luxurious lifestyle.",
-      "B Story": "The relationship between Ki-woo and Da-hye, the Park daughter, symbolizes the bridge and the gap between the two worlds.",
-      "Fun and Games": "The Kims enjoy their new roles, indulging in the luxuries of the Park home and reveling in their temporary escape from poverty.",
-      "Midpoint": "Discovery of the hidden basement bunker and the former housekeeper’s husband living there shifts the story from light deception to dark suspense.",
-      "Bad Guys Close In": "The Kims’ precarious secret unravels as the underground dweller threatens their position and the Parks’ world becomes increasingly unstable.",
-      "All Is Lost": "The revelation of the hidden man leads to a violent confrontation, shattering the fragile balance and exposing the Kims’ deception.",
-      "Dark Night of the Soul": "Ki-taek, the father, grapples with his powerless status and the unbearable injustice of their situation as tensions escalate.",
-      "Break into Three": "During a lavish birthday party, suppressed class resentments explode, and Ki-taek makes a decisive, tragic choice that seals their fate.",
-      "Finale": "Chaos erupts at the Park house—violence, tragedy, and the ultimate collapse of the Kim family’s plan, revealing the brutal costs of social inequality.",
-      "Final Image": "Ki-woo, now separated from his family, gazes at the Park mansion from afar, dreaming of a day he might afford to buy it, embodying both hope and despair."
+      "Opening Image": "The struggling Kim family lives in a cramped semi-basement apartment, scrounging for scraps and folding pizza boxes, symbolizing their dire socioeconomic status.",
+      "Theme Stated": "Ki-taek’s son, Ki-woo, receives a chance to tutor the wealthy Park family’s daughter, hinting at the theme of class division and the desire to escape poverty.",
+      "Set-Up": "We see the Kims’ resourcefulness and desperation as they scheme to infiltrate the Parks’ household, replacing the existing staff one by one.",
+      "Catalyst": "Ki-woo is hired by the Parks, igniting the possibility of upward mobility and setting the plan in motion.",
+      "Debate": "The Kims grapple with the morality of deception and the risks involved in their elaborate con, questioning how far they’re willing to go.",
+      "Break into Two": "The Kims successfully embed themselves in the Parks’ home, transitioning the story into the 'upstairs/downstairs' world where they enjoy luxury and privilege.",
+      "B Story": "The relationship between Ki-woo and the Parks’ daughter, Da-hye, adds a layer of genuine connection amidst the deceit, representing hope and innocence.",
+      "Fun and Games": "The Kims revel in their new roles, enjoying the opulence and freedom, while manipulating the Parks’ ignorance, delivering moments of dark humor and tension.",
+      "Midpoint": "The discovery of the former housekeeper’s hidden husband living secretly in the basement shatters the illusion of control, escalating the stakes dramatically.",
+      "Bad Guys Close In": "The secrets unravel as both the Kims and Parks face threats from the underground dweller, and the precarious balance of power begins to collapse.",
+      "All Is Lost": "The basement dweller’s violent return during the Park family’s garden party leads to chaos; the Kims’ carefully constructed world implodes.",
+      "Dark Night of the Soul": "In the aftermath, Ki-taek hides in the secret bunker, overwhelmed by guilt, anger, and the crushing reality of their entrapment in systemic inequality.",
+      "Break into Three": "Ki-taek emerges from hiding, driven by desperate impulses, signaling a tragic shift from survival to violent reckoning.",
+      "Finale": "A brutal confrontation at the garden party results in multiple casualties; the illusion of class harmony is violently destroyed, exposing the raw wounds of social disparity.",
+      "Final Image": "Ki-woo vows to earn enough money to buy the Parks’ house and free his father from hiding, a bittersweet vision of hope shadowed by the grim reality of entrenched class barriers."
     },
     "Hero’s Journey": {
-      "Ordinary World": "The Kim family lives in poverty in a semi-basement apartment, struggling to get by with low-paying, unstable jobs.",
-      "Call to Adventure": "Ki-woo is offered a chance to tutor the daughter of the wealthy Park family, presenting an opportunity for a better life.",
-      "Trials": "The family must cleverly manipulate and deceive to embed themselves within the Park household, replacing existing staff and maintaining their facade.",
-      "Ordeal": "The discovery of the secret bunker and the man living there threatens to unravel everything, forcing the Kims into a dangerous confrontation.",
-      "Return": "After the violent climax, Ki-woo reflects from a distance on his fractured family and the social divide, holding onto a fragile hope for change."
+      "Ordinary World": "The Kim family struggles in their poor, cramped basement apartment, eking out a living through low-paying, menial jobs.",
+      "Call to Adventure": "Ki-woo is offered a tutoring job by his friend, opening a door into the wealthy Park family’s world.",
+      "Trials": "The Kims orchestrate a complex plan to infiltrate the Park household, facing the challenges of deception, maintaining their cover, and navigating the unfamiliar opulence.",
+      "Ordeal": "The hidden basement dweller’s emergence triggers a violent breakdown, forcing the Kims to confront the brutal realities beneath the surface of wealth and facade.",
+      "Return": "Ki-taek hides in the bunker, while Ki-woo dreams of returning to the Parks’ world legitimately, embodying a painful awareness of their social prison and the desire for change."
     },
     "Story Circle": {
-      "You": "The Kim family, struggling in poverty, seeking a way out of their desperate circumstances.",
-      "Need": "They need financial stability and social mobility to escape their cycle of hardship and humiliation.",
-      "Go": "Ki-woo accepts the tutoring job, initiating the family's infiltration of the Park household.",
-      "Search": "The Kims work to embed themselves deeper into the Parks’ lives, navigating the challenges of deception and class barriers.",
-      "Find": "They uncover the hidden bunker and the man living there, revealing the dark underbelly of the Park family’s world and the limits of their control.",
-      "Take": "The family faces violent consequences as their secret is exposed, culminating in a chaotic and tragic climax at a birthday party.",
-      "Return": "Ki-woo returns to the margins of society, physically removed but emotionally tied to the Park home and the dream of a better life.",
-      "Change": "He is forced to confront the brutal realities of class division, understanding that true escape requires more than cunning—it demands sacrifice and hope."
+      "You": "The impoverished Kim family, struggling to survive in a cramped basement and dreaming of a better life.",
+      "Need": "They need financial stability and social mobility to escape poverty and improve their circumstances.",
+      "Go": "Ki-woo takes a tutoring job with the Parks, initiating the family’s plan to infiltrate the wealthy household.",
+      "Search": "The Kims manipulate the Parks, replacing staff, and enjoy the luxury and comfort they have long been denied.",
+      "Find": "They discover the hidden basement dweller, revealing dark secrets and the true depth of inequality beneath the surface.",
+      "Take": "Violence erupts during the garden party, shattering the fragile balance and forcing the Kims to face the consequences of their actions.",
+      "Return": "Ki-taek retreats into hiding beneath the house, while Ki-woo remains outside, burdened with hope and despair.",
+      "Change": "Ki-woo vows to work hard to buy the house and free his father, symbolizing a painful but persistent hope for breaking free from social constraints."
     }
   }
 }

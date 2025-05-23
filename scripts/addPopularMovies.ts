@@ -11,6 +11,11 @@ config({ path: ".env.local" });
 const TMDB_API_KEY = process.env.TMDB_API_KEY!;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY!;
 const MOVIES_DIR = path.join(process.cwd(), "data/movies");
+const POSTERS_FILE = path.join(process.cwd(), "data/posters.json");
+let posters: Record<string, string> = {};
+if (fs.existsSync(POSTERS_FILE)) {
+  posters = JSON.parse(fs.readFileSync(POSTERS_FILE, "utf-8"));
+}
 
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
@@ -101,23 +106,70 @@ Do not include explanations or comments, just return valid JSON.
 async function main() {
   const popularMovies = await fetchPopularMovies();
 
+  const savedMovies: string[] = [];
+  const skippedMovies: string[] = [];
+
   for (const movie of popularMovies) {
     const fileName = movie.toLowerCase().replace(/\s+/g, "_") + ".json";
     const filePath = path.join(MOVIES_DIR, fileName);
 
-    if (fs.existsSync(filePath)) {
-      console.log(`✅ Skipping ${movie}, already exists.`);
+    const hasMovieFile = fs.existsSync(filePath);
+    const hasPoster = posters[movie.toLowerCase()];
+
+    if (hasMovieFile && hasPoster) {
+      console.log(`✅ Skipping ${movie}, already exists and poster cached.`);
+      skippedMovies.push(movie);
       continue;
     }
 
+    if (!posters[movie.toLowerCase()]) {
+      const posterRes = await fetch(
+        `https://api.themoviedb.org/3/search/movie?query=${encodeURIComponent(
+          movie
+        )}&api_key=${TMDB_API_KEY}`
+      );
+      const posterData = (await posterRes.json()) as {
+        results: { poster_path: string }[];
+      };
+      const posterPath = posterData.results?.[0]?.poster_path;
+      if (posterPath) {
+        posters[
+          movie.toLowerCase()
+        ] = `https://image.tmdb.org/t/p/w500${posterPath}`;
+      } else {
+        console.warn(`⚠️ Poster not found for ${movie}`);
+        console.warn(
+          `❌ TMDB response: ${JSON.stringify(posterData, null, 2)}`
+        );
+      }
+    } else {
+      console.log(`🖼️ Skipping ${movie}, poster already cached.`);
+    }
+
     console.log(`📀 Generating breakdown for ${movie}...`);
+    await new Promise((res) => setTimeout(res, 500));
 
     const breakdown = await generateBreakdown(movie);
     if (!breakdown) continue;
 
     fs.writeFileSync(filePath, JSON.stringify(breakdown, null, 2));
+    savedMovies.push(movie);
     console.log(`✅ Saved: ${fileName}`);
   }
+
+  if (Object.keys(posters).length > 0) {
+    fs.writeFileSync(POSTERS_FILE, JSON.stringify(posters, null, 2));
+    console.log(`🖼️ Posters saved to data/posters.json`);
+  } else {
+    console.warn("⚠️ No posters saved. posters.json will not be written.");
+  }
+
+  console.log(
+    `✅ Saved ${savedMovies.length} movies: ${savedMovies.join(", ")}`
+  );
+  console.log(
+    `⏩ Skipped ${skippedMovies.length} movies: ${skippedMovies.join(", ")}`
+  );
 
   console.log("🎉 Done!");
 }

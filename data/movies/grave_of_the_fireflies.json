@@ -2,38 +2,38 @@
   "title": "Grave of the Fireflies",
   "frameworks": {
     "Save the Cat": {
-      "Opening Image": "A haunting night scene with countless fireflies flickering, juxtaposed against the ruins of wartime Japan, evoking innocence amidst devastation.",
-      "Theme Stated": "The fragility of life and the innocence lost to war — through Seita’s quiet observation of fleeting fireflies, the film asks what it means to survive when all else is gone.",
-      "Set-Up": "Seita and his younger sister Setsuko struggle to survive after their home is destroyed in a bombing; their mother is gravely injured and later dies, setting the stakes for their fight against starvation and loneliness.",
-      "Catalyst": "The death of their mother and the cold rejection from their aunt forces the siblings to leave and fend for themselves, thrusting them into the harsh reality of post-war survival.",
-      "Debate": "Seita wrestles with pride and desperation — should they stay with family or brave the unknown alone? He debates the best way to protect Setsuko and maintain their dignity amid growing scarcity.",
-      "Break into Two": "Choosing independence, Seita and Setsuko move into an abandoned shelter, marking their entry into a new world where survival depends solely on their resourcefulness and bond.",
-      "B Story": "The sibling relationship — tender, complex, and heart-wrenching — serves as the emotional core, highlighting themes of familial love, responsibility, and innocence in a cruel world.",
-      "Fun and Games": "Moments of childhood joy and resilience — playing with fireflies, cooking simple meals, and caring for each other — contrast sharply with their dire circumstances, illustrating fleeting happiness amidst despair.",
-      "Midpoint": "Setsuko’s health begins to deteriorate, turning the story darker and more urgent; the initial hope of survival fades as the siblings confront the brutal consequences of starvation and neglect.",
-      "Bad Guys Close In": "Societal collapse, food shortages, and Seita’s increasing isolation compound their plight; his pride alienates potential helpers, and Setsuko’s condition worsens, tightening the grip of tragedy.",
-      "All Is Lost": "Setsuko’s death marks the ultimate loss, shattering Seita’s world and stripping away the last vestige of hope and innocence.",
-      "Dark Night of the Soul": "Seita, alone and devastated, wanders the ruins in disbelief and despair, confronting the overwhelming silence and emptiness left by war and loss.",
-      "Break into Three": "In a final act of surrender, Seita turns himself in to the authorities, symbolizing his acceptance of defeat and the end of his solitary struggle.",
-      "Finale": "The film closes with a poignant reflection on memory and the cost of war, as Seita’s spirit reunites with Setsuko’s in a luminous field of fireflies, transcending their suffering through enduring love.",
-      "Final Image": "The glowing fireflies flicker softly in the night, a tender, bittersweet symbol of innocence lost and the fragile beauty of life amid devastation."
+      "Opening Image": "Seita and Setsuko, two siblings, are introduced amidst the ruins of wartime Japan, highlighting innocence overshadowed by devastation.",
+      "Theme Stated": "The fragility of life and the cost of war become clear as Setsuko’s simple joys contrast with the harsh reality surrounding them.",
+      "Set-Up": "Seita and Setsuko lose their home and mother in the firebombing of Kobe, setting their struggle for survival into motion.",
+      "Catalyst": "Their father is absent, serving in the navy, and the siblings are forced to fend for themselves after being rejected by distant relatives.",
+      "Debate": "Seita wrestles with pride and desperation, debating whether to accept charity or maintain independence despite dwindling resources.",
+      "Break into Two": "Seita takes Setsuko to an abandoned bomb shelter, deciding to survive alone away from society’s judgment and constraints.",
+      "B Story": "The brother-sister bond deepens, showcasing their mutual love and innocence amid despair, adding emotional weight to the narrative.",
+      "Fun and Games": "Moments of childlike wonder and hope emerge as Setsuko collects fireflies, providing fleeting light in their dark world.",
+      "Midpoint": "Hope turns to crisis as food shortages and illness start to claim their strength, marking a shift from hopeful survival to tragic decline.",
+      "Bad Guys Close In": "Hunger, disease, and isolation tighten their grip, while societal indifference and Seita’s pride exacerbate their suffering.",
+      "All Is Lost": "Setsuko’s health deteriorates rapidly, and Seita's inability to protect his sister culminates in devastating loss.",
+      "Dark Night of the Soul": "Seita confronts the crushing reality of his failure and the merciless consequences of war on innocent lives.",
+      "Break into Three": "In a final act of desperation, Seita seeks help but finds no solace, symbolizing the ultimate collapse of hope.",
+      "Finale": "Setsuko dies, and Seita succumbs to starvation, their tragic end underscoring the inhumanity of war and societal neglect.",
+      "Final Image": "Seita’s ghost reunites with Setsuko amid fireflies, a poignant reminder of innocence lost and the enduring bond beyond death."
     },
     "Hero’s Journey": {
-      "Ordinary World": "Seita and Setsuko live a peaceful life with their mother in wartime Japan, unaware of the impending destruction that will shatter their world.",
-      "Call to Adventure": "The bombing raids destroy their home and kill their mother, forcing the siblings into the harsh reality of survival alone.",
-      "Trials": "Facing starvation, social rejection, and illness, Seita struggles to provide for Setsuko, navigating a landscape ravaged by war and apathy.",
-      "Ordeal": "Setsuko’s health declines rapidly due to malnutrition and disease, culminating in her tragic death — the emotional and narrative climax of Seita’s journey.",
-      "Return": "Seita is left alone to confront the emptiness of survival without his sister; the story closes with his death and a spiritual reunion, emphasizing the cost of war and the enduring power of love."
+      "Ordinary World": "Seita and Setsuko live peacefully with their mother during WWII in Kobe, Japan.",
+      "Call to Adventure": "The bombing destroys their home and kills their mother, thrusting them into survival mode.",
+      "Trials": "The siblings face hunger, illness, social alienation, and the harsh realities of war-torn Japan.",
+      "Ordeal": "Despite Seita’s efforts, Setsuko’s health fails, and she dies from malnutrition and disease.",
+      "Return": "Seita dies alone in a train station, his spirit reunited with Setsuko, highlighting the tragic cost of war on the innocent."
     },
     "Story Circle": {
-      "You": "Seita, a young boy devoted to protecting his little sister, living a normal life before war devastates their home.",
-      "Need": "To survive the aftermath of war and keep his sister safe amidst starvation and loss.",
-      "Go": "They leave their aunt’s home and move into an abandoned shelter to fend for themselves.",
-      "Search": "Seita struggles to find food and maintain hope, while caring for Setsuko and trying to shield her from the brutal realities around them.",
-      "Find": "Brief moments of joy and connection, such as playing with fireflies and sharing meals, provide fleeting solace in their deteriorating situation.",
-      "Take": "The devastating loss of Setsuko to malnutrition and illness forces Seita to confront his limitations and grief.",
-      "Return": "Seita’s isolation deepens as he faces the consequences of his choices and the overwhelming loneliness of survival without his sister.",
-      "Change": "Through tragedy, Seita’s story becomes a testament to the innocence lost in war and the enduring strength of sibling love, leaving a lasting emotional impact on the audience."
+      "You": "Seita, a young boy, lives a normal life with his sister Setsuko.",
+      "Need": "After their home is destroyed and mother dies, they need to survive on their own.",
+      "Go": "Seita chooses to take Setsuko away from relatives to live independently in an abandoned shelter.",
+      "Search": "They struggle to find food, warmth, and safety amid the devastation around them.",
+      "Find": "They briefly find happiness and light through moments like catching fireflies and caring for each other.",
+      "Take": "The harsh realities of starvation and illness take their toll, threatening their very existence.",
+      "Return": "Seita faces the loss of Setsuko and eventually dies, his spirit returning to the world of the living as a ghost.",
+      "Change": "The story reveals the devastating human cost of war, innocence lost, and the enduring bond of family beyond life and death."
     }
   }
 }

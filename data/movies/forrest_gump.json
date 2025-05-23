@@ -2,38 +2,38 @@
   "title": "Forrest Gump",
   "frameworks": {
     "Save the Cat": {
-      "Opening Image": "A feather floats gently down onto a bench where Forrest sits, symbolizing the whimsy and unpredictability of life.",
-      "Theme Stated": "Jenny tells Forrest, 'Life is like a box of chocolates. You never know what you're gonna get,' hinting at the film's exploration of fate and choice.",
-      "Set-Up": "We meet Forrest as a child with physical and intellectual challenges, establishing his innocence, simple worldview, and deep love for Jenny.",
-      "Catalyst": "Forrest discovers he can run extraordinarily fast, breaking free from his leg braces and symbolizing his unique potential despite obstacles.",
-      "Debate": "Forrest grapples with his place in the world, unsure if he can transcend his limitations and what life has in store for him.",
-      "Break into Two": "Forrest enlists in the army, stepping into a new world of conflict and growth, marking his journey from innocence to experience.",
-      "B Story": "The evolving relationship with Jenny, who represents both his anchor and the complexities of love and loss in his life.",
-      "Fun and Games": "Forrest's extraordinary adventures — college football stardom, Vietnam War heroics, ping-pong championships, and entrepreneurial success — highlighting his serendipitous journey through history.",
-      "Midpoint": "Forrest learns that Jenny is engaged, confronting him with the reality of their divergent paths and the fragility of his dreams.",
-      "Bad Guys Close In": "Jenny's struggles deepen, and Forrest faces emotional pain and confusion, realizing life’s unpredictability and the limits of his innocence.",
-      "All Is Lost": "Jenny leaves Forrest again, and he faces loneliness and the harsh truths of adult life, questioning if happiness is within reach.",
-      "Dark Night of the Soul": "Forrest reflects on the meaning of life, love, and loss while raising his son alone, embodying resilience in the face of adversity.",
-      "Break into Three": "Jenny returns to Forrest, bringing new hope and a chance at forming the family he always wanted.",
-      "Finale": "Forrest embraces fatherhood, fulfilling his journey of love and acceptance, showing that life's value lies in connection and perseverance.",
-      "Final Image": "The feather from the beginning floats away once more as Forrest watches his son board the school bus, symbolizing the cyclical nature of life and hope for the future."
+      "Opening Image": "A feather floats gently through the air, landing at Forrest's feet on a bus stop bench, symbolizing the randomness and flow of life.",
+      "Theme Stated": "Jenny tells Forrest, 'Life is like a box of chocolates, you never know what you're gonna get,' introducing the theme of unpredictability and destiny.",
+      "Set-Up": "We see Forrest's childhood struggles with leg braces, his simple but loving relationship with his mother, and his deep bond with Jenny, establishing his innocence and pure-hearted nature.",
+      "Catalyst": "Forrest discovers he can run effortlessly, breaking free from his physical limitations and changing his life trajectory.",
+      "Debate": "Forrest grapples with understanding the complexities of the world around him, questioning his place while trying to follow Jenny's path and his mother's guidance.",
+      "Break into Two": "Forrest enlists in the army, stepping into the wider, chaotic world beyond his sheltered upbringing.",
+      "B Story": "The evolving relationship with Jenny, whose turbulent life contrasts with Forrest's steadfast optimism and loyalty.",
+      "Fun and Games": "Forrest's extraordinary adventures: excelling in football, serving bravely in Vietnam, becoming a ping-pong champion, and inadvertently influencing major historical moments.",
+      "Midpoint": "Forrest receives the Medal of Honor and learns of Jenny's pregnancy, a moment of triumph and deep personal revelation that raises the stakes emotionally.",
+      "Bad Guys Close In": "Jenny's struggles with addiction and abusive relationships intensify, while Forrest faces the challenges of single fatherhood and uncertainty about the future.",
+      "All Is Lost": "Jenny leaves Forrest and their son, creating a moment of profound loneliness and despair for Forrest.",
+      "Dark Night of the Soul": "Forrest reflects on his life's journey, feeling lost but still holding onto hope fueled by memories and love.",
+      "Break into Three": "Jenny returns, bringing Forrest and their son together, signaling a new chapter of healing and acceptance.",
+      "Finale": "Forrest embraces fatherhood and the bittersweet reality of Jenny's illness, demonstrating resilience, unconditional love, and the cyclical nature of life.",
+      "Final Image": "The feather reappears, carried by the wind as Forrest watches his son board the school bus, symbolizing the continuation of life’s unpredictable journey."
     },
     "Hero’s Journey": {
-      "Ordinary World": "Forrest lives a sheltered childhood in small-town Alabama, limited by his physical and mental challenges but surrounded by love.",
-      "Call to Adventure": "His unexpected talent for running propels him into new experiences beyond his familiar world.",
-      "Trials": "Forrest faces the Vietnam War, loss of friends, complex relationships, and societal changes, testing his endurance and optimism.",
-      "Ordeal": "Confronting Jenny’s departure and later her illness forces Forrest to confront deep emotional pain and the impermanence of life.",
-      "Return": "Forrest returns home as a father and a man who has embraced life’s unpredictability, finding peace in love and family."
+      "Ordinary World": "Forrest grows up in Greenbow, Alabama, living a simple life shaped by his physical challenges and sheltered upbringing.",
+      "Call to Adventure": "His ability to run fast frees him from his leg braces and opens new possibilities beyond his small town.",
+      "Trials": "Forrest navigates the complexities of war, fame, love, and loss, each experience shaping his innocent worldview and inner strength.",
+      "Ordeal": "Facing the pain of Jenny's departure and raising their son alone, Forrest confronts his deepest fears and loneliness.",
+      "Return": "Jenny returns and entrusts Forrest with their son, bringing Forrest full circle to a new life defined by love, responsibility, and hope."
     },
     "Story Circle": {
-      "You": "Forrest, a kind-hearted but intellectually challenged boy, living a simple life in Alabama.",
-      "Need": "He seeks love, acceptance, and a sense of purpose beyond his perceived limitations.",
-      "Go": "Forrest leaves his childhood behind and ventures into the wider world through running, the army, and various life adventures.",
-      "Search": "He navigates the chaos of war, fame, business, and relationships, often stumbling but moving forward with earnestness.",
-      "Find": "Forrest discovers his son and reconnects with Jenny, realizing that love and family are his true treasures.",
-      "Take": "He embraces the responsibilities of fatherhood and the pain of Jenny's illness, growing emotionally stronger.",
-      "Return": "Forrest settles into his role as a devoted father, finding meaning in everyday moments and the legacy he leaves.",
-      "Change": "From a boy limited by expectations to a man who shapes his destiny through kindness, resilience, and unconditional love."
+      "You": "Forrest Gump, a simple man with a kind heart and limited intellect, living a sheltered childhood.",
+      "Need": "To find his place in a confusing, often cruel world and to connect with those he loves.",
+      "Go": "He joins the army, embarks on adventures, and follows the twists of fate that life presents.",
+      "Search": "Forrest experiences love, loss, and success, all while seeking meaning and belonging.",
+      "Find": "He discovers fatherhood and the depth of unconditional love through his son and Jenny’s presence.",
+      "Take": "He embraces responsibility and the hardships of caring for his family despite uncertainty and pain.",
+      "Return": "Forrest settles into a quieter life, enriched by the lessons and connections forged through his journey.",
+      "Change": "Though still simple, Forrest gains profound wisdom about life’s unpredictability, love, and perseverance."
     }
   }
 }

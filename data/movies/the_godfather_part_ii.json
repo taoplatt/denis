@@ -2,38 +2,38 @@
   "title": "The Godfather Part II",
   "frameworks": {
     "Save the Cat": {
-      "Opening Image": "Young Vito Corleone as a boy in Sicily, witnessing the murder of his family, setting the tone of loss and survival.",
-      "Theme Stated": "The voiceover of Vito's early life and Michael’s assertion that family and power come at a great cost.",
-      "Set-Up": "Michael Corleone consolidates his power in 1958 New York, showing his cold, ruthless control over the family business while tensions rise with his wife and brother.",
-      "Catalyst": "Michael's brother Fredo’s betrayal and the impending Senate investigation threaten the Corleone empire.",
-      "Debate": "Michael wrestles with trust and loyalty — can family be trusted? He contemplates the cost of his decisions on his soul and relationships.",
-      "Break into Two": "Michael chooses to fight back aggressively, moving from defensive to offensive by ordering hits and asserting dominance to protect the family legacy.",
-      "B Story": "The parallel story of young Vito’s rise from immigrant to crime boss, illustrating the origins of the family's power and values.",
-      "Fun and Games": "Vito’s clever, strategic rise in Little Italy, building alliances, and outsmarting enemies, contrasted with Michael’s calculated but cold maneuvers in the present day.",
-      "Midpoint": "Michael’s wife Kay confronts him about his criminal life and lies, resulting in her abortion and their estrangement. The stakes are deeply personal now.",
-      "Bad Guys Close In": "Michael faces betrayal within his family, government pressure, and enemies closing in; paranoia and isolation increase.",
-      "All Is Lost": "Fredo’s betrayal is confirmed, Kay leaves Michael, and the family’s unity fractures irreparably.",
-      "Dark Night of the Soul": "Michael is alone in the compound, reflecting on the cost of power, love lost, and whether the empire is worth the personal devastation.",
-      "Break into Three": "Michael resolves to eliminate all threats, including his own brother, to secure the family's future — embracing ruthless finality.",
-      "Finale": "The execution of Michael’s enemies and Fredo, solidifying his absolute but hollow victory; the cleansing of the family’s enemies at a great emotional cost.",
-      "Final Image": "Michael alone in the darkened Corleone compound, a king isolated on his throne, embodying the tragic cost of power and betrayal."
+      "Opening Image": "A young Vito Corleone arrives in New York, full of hope but vulnerable, establishing the immigrant struggle and the origins of power.",
+      "Theme Stated": "Vito's rise and Michael's reign contrast the cost of family loyalty and the corrupting nature of power.",
+      "Set-Up": "Michael's consolidation of power in the 1950s exposes cracks in his empire and family, while young Vito begins building his own.",
+      "Catalyst": "Michael faces betrayal and enemies within and outside, threatening his control and family legacy.",
+      "Debate": "Michael wrestles with trust, isolation, and the morality of his ruthless decisions; Vito debates how to survive and protect his family in a hostile world.",
+      "Break into Two": "Michael commits fully to the violent path of protecting the family, while Vito embraces a strategic, measured rise to power.",
+      "B Story": "The parallel narrative of young Vito’s journey from immigrant to don reflects themes of identity, sacrifice, and the cost of ambition.",
+      "Fun and Games": "Michael navigates political intrigue, business deals, and family drama, showcasing the power and isolation of the Mafia lifestyle; Vito builds alliances and eliminates threats.",
+      "Midpoint": "Michael’s brother Fredo’s betrayal is revealed, shattering family trust and escalating the stakes to personal tragedy.",
+      "Bad Guys Close In": "Enemies close in on Michael’s empire, betrayal deepens, and paranoia consumes him; Vito faces threats to his fledgling operations.",
+      "All Is Lost": "Michael’s wife Kay confronts the dark reality of his world, deciding to leave, and Michael faces the loneliness of his crown.",
+      "Dark Night of the Soul": "Michael reflects on the cost of power and family, realizing the emotional void and irreversible damage within his inner circle.",
+      "Break into Three": "Michael resolves to cleanse his empire of traitors, embracing the brutal final measures necessary to secure his legacy.",
+      "Finale": "Michael orchestrates a ruthless purge of his enemies, solidifying his control but at the cost of family bonds and his own humanity.",
+      "Final Image": "Michael sits alone, isolated and haunted, embodying the tragic figure of a man who has gained everything yet lost himself and his family."
     },
     "Hero’s Journey": {
-      "Ordinary World": "Michael Corleone as a powerful but conflicted mafia don struggling to legitimize his empire while maintaining control.",
-      "Call to Adventure": "The Senate investigation and internal betrayals threaten Michael’s empire, forcing him into action.",
-      "Trials": "Michael navigates political corruption, assassination attempts, and family betrayals, confronting his own paranoia and moral decay.",
-      "Ordeal": "Michael confronts Fredo’s betrayal and his wife’s disillusionment, leading to profound personal and familial crisis.",
-      "Return": "Michael emerges victorious in securing his power but at the cost of his soul and family, isolated and hardened."
+      "Ordinary World": "Michael Corleone enjoys power and respect as the head of the Corleone family, while young Vito lives a modest immigrant life in Little Italy.",
+      "Call to Adventure": "Michael faces assassination attempts and political threats; Vito confronts violent injustice and the need to protect his family.",
+      "Trials": "Michael deals with betrayal, political corruption, and family strife; Vito navigates rival gangs, builds alliances, and asserts control.",
+      "Ordeal": "Michael discovers Fredo’s betrayal, forcing him to confront the cost of loyalty and power; Vito faces a turning point where he must kill to survive and lead.",
+      "Return": "Michael emerges as a more hardened, isolated leader, having secured his empire but at immense personal and moral cost; Vito’s legacy is established as the foundation of the Corleone dynasty."
     },
     "Story Circle": {
-      "You": "Michael Corleone, powerful mafia boss seeking to protect and expand his family's empire.",
-      "Need": "He needs to secure his family's future against external threats and internal betrayal.",
-      "Go": "Michael takes aggressive action against enemies and suspected traitors, delving deeper into violence and mistrust.",
-      "Search": "He investigates betrayals, navigates political danger, and wrestles with his own conscience and loneliness.",
-      "Find": "Michael discovers the full extent of Fredo’s betrayal and the cost of his choices in his fractured family.",
-      "Take": "He decides to sacrifice family ties, ordering Fredo’s death to protect the empire.",
-      "Return": "Michael returns to his position of power, but now isolated, feared, and emotionally broken.",
-      "Change": "He transforms from a conflicted leader seeking legitimacy into a ruthless, solitary figure embodying the tragic cost of power."
+      "You": "Michael Corleone, a powerful Mafia don, struggles to maintain his empire and family in the face of growing threats.",
+      "Need": "He needs to protect his family and legacy from betrayal and external enemies without losing himself.",
+      "Go": "Michael dives deeper into ruthless power plays and political maneuvering, while young Vito begins his path from immigrant to crime boss.",
+      "Search": "Michael investigates betrayals and consolidates power through violence and strategy; Vito builds alliances and eliminates rivals.",
+      "Find": "Michael uncovers the painful truth about Fredo’s betrayal; Vito finds his footing as a respected leader in the community.",
+      "Take": "Michael makes irreversible decisions, ordering a violent purge of enemies including family; Vito commits fully to a life of crime for survival and respect.",
+      "Return": "Michael returns to his seat of power, but now isolated and haunted; Vito’s rise sets the foundation for the Corleone legacy.",
+      "Change": "Michael transforms from a reluctant leader to a cold, isolated figure, embodying the tragic cost of power; Vito evolves from vulnerable immigrant to a formidable patriarch."
     }
   }
 }

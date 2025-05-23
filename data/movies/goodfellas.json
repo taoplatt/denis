@@ -2,38 +2,38 @@
   "title": "GoodFellas",
   "frameworks": {
     "Save the Cat": {
-      "Opening Image": "Young Henry Hill gazes with wide-eyed admiration at the glamorous life of the local gangsters in his Brooklyn neighborhood, setting the tone of allure and ambition.",
-      "Theme Stated": "Tommy warns Henry and Jimmy that 'As far back as I can remember, I always wanted to be a gangster,' establishing the seductive but dangerous pursuit of power and belonging.",
-      "Set-Up": "Henry’s teenage years unfold as he ingratiates himself with the wise guys, learning the rules of the Mafia world while balancing family and loyalty.",
-      "Catalyst": "Henry is formally inducted into the Mafia's inner circle after proving his loyalty during a risky hijacking operation, marking his entry into the criminal underworld.",
-      "Debate": "Henry grapples with the moral compromises and escalating violence that come with his newfound status, questioning if the lifestyle’s rewards outweigh the costs.",
-      "Break into Two": "Fully embraced by the mob, Henry, Jimmy, and Tommy escalate their criminal exploits, diving headfirst into a world of fast money, power, and recklessness.",
-      "B Story": "Henry’s romantic relationship with Karen evolves from innocent attraction to a complex partnership intertwined with crime, loyalty, and eventual disillusionment.",
-      "Fun and Games": "The trio enjoys the high life: lavish parties, exotic cars, and luxury, highlighting the intoxicating allure and camaraderie of mob culture.",
-      "Midpoint": "The Lufthansa heist delivers a massive windfall, a high point filled with triumph but also planting seeds of paranoia and betrayal.",
-      "Bad Guys Close In": "Tensions rise as mistrust grows within the crew; Tommy's unpredictable violence and the law’s increasing scrutiny threaten to unravel their empire.",
-      "All Is Lost": "Tommy's brutal murder shatters the gang’s unity; Henry’s world crumbles as his closest allies are killed or arrested, signaling impending doom.",
-      "Dark Night of the Soul": "Facing indictments and paranoia, Henry feels isolated and trapped, questioning the choices that led to his downfall and fearing for his life.",
-      "Break into Three": "Henry makes the desperate decision to turn informant, choosing survival over loyalty in a final act of self-preservation.",
-      "Finale": "Henry testifies against his former partners, dismantling the mob network from within, but at the cost of losing his identity and freedom.",
-      "Final Image": "Henry, now in witness protection, reflects alone on his lost life, a stark contrast to the glamorous beginning, embodying the price of ambition and betrayal."
+      "Opening Image": "Young Henry Hill gazes with wide-eyed fascination at the glamorous mafia lifestyle, setting the tone of allure and danger.",
+      "Theme Stated": "Tommy warns Henry that if you're in the mafia, you can never really leave — foreshadowing the cost of loyalty and ambition.",
+      "Set-Up": "Henry’s childhood introduction to the mob world, building his relationships with Jimmy and Tommy, and his gradual initiation into crime.",
+      "Catalyst": "Henry participates in the Lufthansa heist, the biggest robbery in Mafia history, marking the point of no return.",
+      "Debate": "Henry struggles with the consequences of his lifestyle—balancing loyalty, greed, and fear as paranoia grows within the crew.",
+      "Break into Two": "The aftermath of the heist triggers a series of violent betrayals and murders, plunging Henry deeper into chaos.",
+      "B Story": "Henry’s complicated relationship with Karen evolves—her initial attraction to the lifestyle is challenged by its dark realities.",
+      "Fun and Games": "The early days of crime—fast cars, parties, and easy money—contrast with the looming threat of law enforcement and mob rivalries.",
+      "Midpoint": "Tommy’s brutal murder shakes the crew, signaling the collapse of their power and the beginning of their downfall.",
+      "Bad Guys Close In": "The FBI pressure intensifies; paranoia and mistrust fracture the mob family; Henry’s addiction and recklessness escalate.",
+      "All Is Lost": "Henry’s arrest and the realization that his friends will not save him — he faces isolation and impending doom.",
+      "Dark Night of the Soul": "In jail, Henry contemplates his choices and the price of his ambition as he confronts betrayal and loneliness.",
+      "Break into Three": "Henry decides to cooperate with the FBI, choosing self-preservation over loyalty to the mob code.",
+      "Finale": "Witness protection removes Henry from his old life; the film depicts his loss of identity and the hollow aftermath of crime.",
+      "Final Image": "Henry, now a shadow of his former self, lives anonymously—stripped of glamour, trapped by his past."
     },
     "Hero’s Journey": {
-      "Ordinary World": "Henry Hill grows up in working-class Brooklyn, fascinated by the local mobsters’ power and charisma.",
-      "Call to Adventure": "He begins running errands for the gang, eager to prove himself and escape his modest background.",
-      "Trials": "Henry navigates the dangerous criminal underworld, learning the codes of loyalty, cunning, and violence alongside Jimmy and Tommy.",
-      "Ordeal": "The Lufthansa heist, a risky and lucrative operation, escalates tensions and paranoia, leading to betrayals and deadly consequences.",
-      "Return": "Betrayed and hunted, Henry turns informant, returning to a life of obscurity and loss, forever changed by his journey through crime."
+      "Ordinary World": "Henry Hill grows up in Brooklyn, fascinated by the local mobsters and dreaming of belonging.",
+      "Call to Adventure": "As a teenager, Henry is invited into the world of organized crime by Jimmy and Tommy.",
+      "Trials": "He learns the ropes—performing robberies, running scams, and navigating the dangerous mafia hierarchy.",
+      "Ordeal": "The Lufthansa heist and subsequent murders push Henry to the brink, testing his loyalty and survival instincts.",
+      "Return": "Facing arrest and betrayal, Henry turns state's witness, leaving behind the life he once craved."
     },
     "Story Circle": {
-      "You": "Henry Hill, an ambitious youth yearning for respect and power beyond his humble beginnings.",
-      "Need": "He needs to belong and rise within the Mafia to achieve status, wealth, and identity.",
-      "Go": "Henry commits fully to the mob lifestyle, engaging in increasingly risky and violent crimes.",
-      "Search": "He experiences the highs of wealth and camaraderie but also the dangers of betrayal and law enforcement pressure.",
-      "Find": "Henry gains the riches and power he desired but also discovers the fragility and volatility of his world.",
-      "Take": "Confronted with the threat of death and imprisonment, Henry chooses self-preservation by cooperating with the authorities.",
-      "Return": "Henry reenters society under protection, stripped of his past identity and severed from his former life.",
-      "Change": "He learns the heavy cost of ambition and betrayal, living with regret and the loss of his once-glamorous world."
+      "You": "Henry Hill, a young man captivated by the allure of the mafia lifestyle.",
+      "Need": "He desires power, respect, and a sense of belonging beyond his humble beginnings.",
+      "Go": "Henry immerses himself in crime, building relationships with key mob figures and escalating his criminal activities.",
+      "Search": "He navigates the thrills and dangers of the underworld, seeking success while confronting moral compromises.",
+      "Find": "After the Lufthansa heist, Henry discovers that the violent realities of the mob world threaten everything he values.",
+      "Take": "Confronted by betrayal, law enforcement, and addiction, Henry chooses to betray the mob to save himself.",
+      "Return": "He enters witness protection, leaving behind his former identity and lifestyle.",
+      "Change": "Stripped of glamour and power, Henry faces a painful reckoning with the cost of his choices and lost innocence."
     }
   }
 }

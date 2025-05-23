@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
-import { fetchPosterUrl } from "../utils/fetchPosterUrl";
 import React, { useState, useEffect, useRef } from "react";
+import posters from "../data/posters.json";
 
 export default function Home() {
   const [selectedMovie, setSelectedMovie] = useState<string | null>(null);
@@ -38,13 +38,11 @@ export default function Home() {
 
         for (const { name, data } of movieList) {
           const readableName = name.replace(/_/g, " ");
-          const res = await fetch(
-            `/api/poster?name=${encodeURIComponent(readableName)}`
-          );
-          const { posterUrl } = await res.json();
+          const posterUrl =
+            posters[readableName.toLowerCase()] || "/fallback.jpg";
           movies[name] = {
             ...data,
-            posterUrl: posterUrl || "/fallback.jpg",
+            posterUrl,
           };
         }
 

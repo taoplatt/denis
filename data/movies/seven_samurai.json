@@ -2,38 +2,38 @@
   "title": "Seven Samurai",
   "frameworks": {
     "Save the Cat": {
-      "Opening Image": "A poor farming village struggles under the constant threat of ruthless bandits, highlighting their vulnerability and despair.",
-      "Theme Stated": "The villagers express their hopelessness, hinting at the theme that unity and courage can overcome oppression.",
-      "Set-Up": "We meet the villagers’ daily hardships and their decision to seek help, setting the stakes and introducing key characters.",
-      "Catalyst": "The villagers decide to hire samurai to protect them, initiating the quest for defenders.",
-      "Debate": "The farmers grapple with how to find samurai willing to risk their lives for little pay, reflecting their desperation and doubts.",
-      "Break into Two": "Kambei, the experienced ronin, agrees to help, marking the transition into active preparation for defense.",
-      "B Story": "The relationships between samurai and villagers deepen, exploring themes of honor, class, and mutual respect.",
-      "Fun and Games": "Recruitment of the samurai team, training the villagers, and building defenses showcase camaraderie and strategy.",
-      "Midpoint": "The bandits attack prematurely, testing the villagers’ and samurai’s readiness; a moment of victory and loss that raises the stakes.",
-      "Bad Guys Close In": "The bandits regroup and launch a full-scale assault, overwhelming the village and threatening total destruction.",
-      "All Is Lost": "The villagers' defenses falter, and key samurai are killed, creating a sense of imminent defeat.",
-      "Dark Night of the Soul": "Survivors mourn and question whether their sacrifice was in vain, confronting despair and fear.",
-      "Break into Three": "A final resolve emerges among the remaining samurai and villagers to make a last stand, embracing unity and hope.",
-      "Finale": "In a fierce, strategic battle, the samurai and villagers fight with everything they have, ultimately repelling the bandits.",
-      "Final Image": "The once-threatened village stands scarred but free, highlighting themes of sacrifice and rebirth."
+      "Opening Image": "A poor, desperate farming village plagued by ruthless bandits, highlighting vulnerability and despair.",
+      "Theme Stated": "The village elder suggests that only samurai can save them, introducing the theme of honor and sacrifice versus survival.",
+      "Set-Up": "Villagers decide to hire samurai for protection; they send two men to recruit warriors, showing desperation and hope.",
+      "Catalyst": "Kambei, a wise and honorable ronin, accepts the mission to protect the village, setting the story in motion.",
+      "Debate": "Kambei and the villagers grapple with recruiting enough skilled samurai and whether their plan will succeed.",
+      "Break into Two": "The seven samurai are assembled, and they move to the village to begin preparations, shifting from planning to action.",
+      "B Story": "The growing relationships between samurai and villagers, especially the bond between Katsushiro and the village girl, reflect personal stakes and human connection.",
+      "Fun and Games": "Training the villagers, fortifying defenses, and preparing for the inevitable battle showcase camaraderie and rising hope.",
+      "Midpoint": "The first bandit raid is repelled, a temporary victory that raises stakes and confidence for both samurai and villagers.",
+      "Bad Guys Close In": "Bandits regroup and intensify their attacks, testing the defenses and resolve of the defenders.",
+      "All Is Lost": "A surprise attack results in casualties among the villagers and samurai, shattering morale and hope.",
+      "Dark Night of the Soul": "Kambei and his comrades question their chances as the bandits prepare for a final, overwhelming assault.",
+      "Break into Three": "The samurai rally the villagers for a last stand, reaffirming their commitment to sacrifice and protection.",
+      "Finale": "A brutal, strategic battle unfolds; the samurai and villagers fight with courage, losses mount, but they ultimately defeat the bandits.",
+      "Final Image": "The village is saved but scarred; the surviving samurai depart quietly, underscoring that the true victory belongs to the villagers."
     },
     "Hero’s Journey": {
-      "Ordinary World": "The villagers live in fear, farming under the constant threat of bandit raids, trapped in a cycle of poverty and helplessness.",
-      "Call to Adventure": "The farmers decide to seek samurai protectors, inviting outsiders to change their fate.",
-      "Trials": "Kambei and his recruited samurai face challenges recruiting allies, training villagers, and preparing defenses.",
-      "Ordeal": "The climactic battle tests the courage, skill, and resolve of the samurai and villagers alike, pushing them to their limits.",
-      "Return": "After victory, the surviving samurai reflect on their sacrifices, and the village begins to rebuild, forever changed."
+      "Ordinary World": "The farming village lives in fear and poverty, vulnerable to bandit raids.",
+      "Call to Adventure": "The villagers seek out samurai to defend them, appealing to Kambei to take on the mission.",
+      "Trials": "Kambei recruits six other samurai, and together they train villagers and prepare defenses, facing skepticism and danger.",
+      "Ordeal": "The climactic battle against the bandits tests the samurai’s skills, resolve, and willingness to sacrifice.",
+      "Return": "With the bandits defeated, the surviving samurai leave the village, their mission complete but their place forever changed."
     },
     "Story Circle": {
-      "You": "The poor villagers, vulnerable and besieged, longing for safety and peace.",
-      "Need": "They need protection from the bandits who threaten their survival.",
-      "Go": "They seek out samurai willing to defend them, stepping into unfamiliar territory.",
-      "Search": "The samurai recruit allies, train villagers, and prepare defenses, facing internal and external challenges.",
-      "Find": "They confront the bandits in battle, finding strength in unity and strategy.",
-      "Take": "They endure losses and sacrifices, fighting desperately to save the village.",
-      "Return": "The survivors emerge from battle, forever changed by their ordeal and sacrifice.",
-      "Change": "The village gains freedom and hope, while the samurai acknowledge the cost of honor and duty."
+      "You": "The samurai, especially Kambei, embody honor and skill but live a rootless, wandering life.",
+      "Need": "They need purpose and a cause worthy of their sacrifice.",
+      "Go": "They accept the villagers' plea and journey to the threatened village.",
+      "Search": "They train the villagers, strategize defenses, and face internal doubts and external threats.",
+      "Find": "They discover strength in unity and the villagers' resilience.",
+      "Take": "They confront the bandits in a brutal battle, enduring loss and hardship.",
+      "Return": "After victory, the samurai leave the village, their task fulfilled.",
+      "Change": "The samurai find meaning beyond themselves, while the villagers gain hope and protection; sacrifice leads to renewal."
     }
   }
 }

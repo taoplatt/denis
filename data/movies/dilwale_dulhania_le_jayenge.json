@@ -1,0 +1,39 @@
+{
+  "title": "Dilwale Dulhania Le Jayenge",
+  "frameworks": {
+    "Save the Cat": {
+      "Opening Image": "Raj and Simran’s vibrant, carefree lives are glimpsed—Raj charming and mischievous in London, Simran dutiful and traditional, preparing for an arranged marriage.",
+      "Theme Stated": "True love means courage, sacrifice, and challenging societal expectations to choose one’s own destiny.",
+      "Set-Up": "Simran’s family plans her arranged marriage in India, while Raj enjoys life with friends. Their worlds are separate, anchored by tradition and modernity.",
+      "Catalyst": "Raj and Simran meet on a trip across Europe, sparking a playful, magnetic connection despite their differences.",
+      "Debate": "Both wrestle with their growing feelings amid cultural constraints—Simran torn between duty and desire, Raj uncertain if love can bridge their worlds.",
+      "Break into Two": "They decide to pursue their love openly, traveling to India where Simran’s family awaits, willing to risk everything for their relationship.",
+      "B Story": "The friendship and camaraderie between Raj and his friends provide humor and support, highlighting Raj’s transformation from carefree youth to devoted lover.",
+      "Fun and Games": "Raj and Simran share stolen moments in the lush Indian countryside, their chemistry blossoming amid festivals and family gatherings.",
+      "Midpoint": "Their love is discovered by Simran’s strict father, who vehemently opposes the union, raising the stakes and forcing Raj to prove his worth.",
+      "Bad Guys Close In": "Simran’s family intensifies their efforts to separate them; cultural expectations and familial honor weigh heavily, isolating the couple.",
+      "All Is Lost": "Simran is taken away to be married off, and Raj faces the crushing reality that love alone may not be enough to overcome tradition.",
+      "Dark Night of the Soul": "Raj grapples with despair, questioning if his love can withstand the harsh realities of family and society.",
+      "Break into Three": "Raj resolves to fight with honor and determination, deciding to win Simran’s father’s approval rather than rebel outright.",
+      "Finale": "Through earnest efforts, courage, and respect, Raj earns the family’s trust, proving his genuine love and commitment, culminating in Simran’s father’s heartfelt acceptance.",
+      "Final Image": "Raj and Simran united, symbolizing the triumph of love harmonized with tradition, as they begin their life together."
+    },
+    "Hero’s Journey": {
+      "Ordinary World": "Simran lives a life bound by family expectations in London; Raj is a carefree, playful youth enjoying life with friends.",
+      "Call to Adventure": "Their chance meeting during a European trip sparks a connection that challenges their preconceived paths.",
+      "Trials": "They navigate cultural barriers, familial opposition, and personal doubts while deepening their bond.",
+      "Ordeal": "Confronted by Simran’s father’s rejection and the threat of separation, Raj faces his greatest challenge to prove his love.",
+      "Return": "Raj returns triumphant with the family's blessing, transforming from a carefree youth to a responsible partner, ready to embrace a shared future."
+    },
+    "Story Circle": {
+      "You": "Raj, a charming and carefree young man living in London.",
+      "Need": "He seeks genuine love and connection beyond superficial pleasures.",
+      "Go": "Raj embarks on a journey to Europe and then India, following Simran whom he loves.",
+      "Search": "He navigates cultural traditions, familial opposition, and personal doubts to win Simran's heart and approval.",
+      "Find": "Raj discovers that love requires patience, respect, and courage to overcome societal barriers.",
+      "Take": "He risks rejection and conflict, confronting Simran’s family and proving his worth.",
+      "Return": "Raj earns acceptance and returns with Simran, ready to begin their life together.",
+      "Change": "Raj transforms from a carefree youth to a devoted, responsible partner who honors both love and tradition."
+    }
+  }
+}
